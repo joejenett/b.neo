@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-10-14T18:49:14-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝗻𝗲𝗼</title><subtitle>a new take on content from the bulltown archives, circa 1998-2004</subtitle><entry><title type="html">my little WebNeko wins again</title><link href="http://localhost:4000/my-little-webneko-wins-again/" rel="alternate" type="text/html" title="my little WebNeko wins again" /><published>2024-10-13T15:15:09-04:00</published><updated>2024-10-13T15:15:09-04:00</updated><id>http://localhost:4000/my-little-webneko-wins-again</id><content type="html" xml:base="http://localhost:4000/my-little-webneko-wins-again/"><![CDATA[<p>My finicky friend WebNeko (up there in the left corner) doesn’t always play well with other scripts. At the b22 site, I actually had rebuilt the music section to bring little neko back. Now, here on the neo site, I did away with the Zonelets script, not because I didn’t like it, but because I was able to bring my little buddy back. Yay!</p>
+
+<p><a href="https://brid.gy/publish/mastodon"></a></p>]]></content><author><name>joe jenett</name></author><category term="[&quot;site&quot;]" /><summary type="html"><![CDATA[My finicky friend WebNeko (up there in the left corner) doesn’t always play well with other scripts. At the b22 site, I actually had rebuilt the music section to bring little neko back. Now, here on the neo site, I did away with the Zonelets script, not because I didn’t like it, but because I was able to bring my little buddy back. Yay!]]></summary></entry><entry><title type="html">Arcade Fire people</title><link href="http://localhost:4000/arcade-fire-people/" rel="alternate" type="text/html" title="Arcade Fire people" /><published>2024-10-11T12:00:00-04:00</published><updated>2024-10-11T12:00:00-04:00</updated><id>http://localhost:4000/arcade-fire-people</id><content type="html" xml:base="http://localhost:4000/arcade-fire-people/"><![CDATA[<p style="text-align:center;">
+<img src="/images/arcadefire.jpg" title="people in the audience of the Arcade Fire show" alt="people in the audience of the Arcade Fire show" style="max-width:100%" />
+</p>
+<p style="font-size:.85em;">
+	Also at <a href="https://bulltown.joejenett.com/img.select/">𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | img.select</a>.
+</p>
+
+<!--
+<a href="https://brid.gy/publish/mastodon"></a>
+-->]]></content><author><name>joe jenett</name></author><category term="[&quot;images&quot;]" /><summary type="html"><![CDATA[Also at 𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | img.select.]]></summary></entry><entry><title type="html">in the yard</title><link href="http://localhost:4000/in-the-yard/" rel="alternate" type="text/html" title="in the yard" /><published>2024-10-10T12:00:00-04:00</published><updated>2024-10-10T12:00:00-04:00</updated><id>http://localhost:4000/in-the-yard</id><content type="html" xml:base="http://localhost:4000/in-the-yard/"><![CDATA[<p style="text-align:center;">
+	<img src="/images/in-the-yard.jpg" title="a photo of deer taken in our backyard in the Spring of 2008" alt="deer in the woods out back" style="max-width:100%" />
+</p>
+<p>
+	(taken in the spring of 2008)
+</p>
+
+<!--
+<a href="https://brid.gy/publish/mastodon"></a>
+-->]]></content><author><name>joe jenett</name></author><category term="[&quot;images&quot;]" /><summary type="html"><![CDATA[(taken in the spring of 2008)]]></summary></entry><entry><title type="html">thanks!</title><link href="http://localhost:4000/thanks!/" rel="alternate" type="text/html" title="thanks!" /><published>2024-10-04T12:00:00-04:00</published><updated>2024-10-04T12:00:00-04:00</updated><id>http://localhost:4000/thanks!</id><content type="html" xml:base="http://localhost:4000/thanks!/"><![CDATA[<p>
+In the short time since I joined Neocities, the feedback I’ve received from the community has been inspiring. To all of you following bulltown and those who have given me feedback, I’ve got something to say:
+</p>
+<p>
+	Thanks for making me feel welcome - <strong>I love this place!</strong>
+</p>
+
+<!--
+<a href="https://brid.gy/publish/mastodon"></a>
+-->]]></content><author><name>joe jenett</name></author><category term="[&quot;site&quot;]" /><summary type="html"><![CDATA[In the short time since I joined Neocities, the feedback I’ve received from the community has been inspiring. To all of you following bulltown and those who have given me feedback, I’ve got something to say: Thanks for making me feel welcome - I love this place!]]></summary></entry><entry><title type="html">site news 09-30-24</title><link href="http://localhost:4000/site-news-09-30-24/" rel="alternate" type="text/html" title="site news 09-30-24" /><published>2024-09-30T12:00:00-04:00</published><updated>2024-09-30T12:00:00-04:00</updated><id>http://localhost:4000/site-news-09-30-24</id><content type="html" xml:base="http://localhost:4000/site-news-09-30-24/"><![CDATA[<p>Just a quick note to let you know I’ve been working on improving how the button walls render on mobile. Though most of the work is being done offline, both 𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 and 𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝗻𝗲𝗼 may occasionally look a little funky as the project continues. Thx. 
+</p>
+<p>
+	Update 10/02/24: Now that mobile’s looking good, some other changes are underway - please stay tuned... 😎
+</p>
+
+<!--
+<a href="https://brid.gy/publish/mastodon"></a>
+-->]]></content><author><name>joe jenett</name></author><category term="[&quot;site&quot;]" /><summary type="html"><![CDATA[Just a quick note to let you know I’ve been working on improving how the button walls render on mobile. Though most of the work is being done offline, both 𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 and 𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝗻𝗲𝗼 may occasionally look a little funky as the project continues. Thx. Update 10/02/24: Now that mobile’s looking good, some other changes are underway - please stay tuned... 😎]]></summary></entry><entry><title type="html">pieces of me…</title><link href="http://localhost:4000/pieces-of-me/" rel="alternate" type="text/html" title="pieces of me…" /><published>2024-09-28T12:00:00-04:00</published><updated>2024-09-28T12:00:00-04:00</updated><id>http://localhost:4000/pieces-of-me...</id><content type="html" xml:base="http://localhost:4000/pieces-of-me/"><![CDATA[<p>
+	...selections from <a href="https://bulltown.joejenett.com/words/">b22 words</a>
+</p>
+<ul>
+	<li>
+		<a href="https://bulltown.joejenett.com/words/stevie/">stevie</a>
+	</li>
+	<li>
+		<a href="https://bulltown.joejenett.com/words/endoftheday/">at the end of the day</a>
+	</li>
+	<li>
+		<a href="https://bulltown.joejenett.com/words/scattered/">scattered soul</a>
+	</li>
+	<li>
+		<a href="https://bulltown.joejenett.com/words/running/">running</a>
+	</li>
+</ul>
+
+<!--
+<a href="https://brid.gy/publish/mastodon"></a>
+-->]]></content><author><name>joe jenett</name></author><category term="[&quot;words&quot;]" /><summary type="html"><![CDATA[...selections from b22 words stevie at the end of the day scattered soul running]]></summary></entry><entry><title type="html">freedom</title><link href="http://localhost:4000/freedom/" rel="alternate" type="text/html" title="freedom" /><published>2024-09-25T12:00:00-04:00</published><updated>2024-09-25T12:00:00-04:00</updated><id>http://localhost:4000/freedom</id><content type="html" xml:base="http://localhost:4000/freedom/"><![CDATA[<p>
+people need freedom<br />
+gotta express their real selves<br />
+to mean anything
+</p>
+<p>
+<a href="https://ideas.joejenett.com/#seeds%2008-26-23">🌱<small> 𝚓𝚘𝚎. 𝚒𝚍𝚎𝚊𝚜.</small></a>
+</p>
+
+<p>
+    <a href="#" rel="noreferrer noopener" target="mastodon" data-prompt="Please tell me your Mastodon instance" data-edittext="✏️" data-editlabel="Edit your Mastodon instance" class="mastodon-share">
+        Share to Mastodon
+    </a>
+    <script src="/js/mastodon-share.js"></script>
+</p>
+
+<!--
+<a href="https://brid.gy/publish/mastodon"></a>
+-->]]></content><author><name>joe jenett</name></author><category term="[&quot;words&quot;]" /><summary type="html"><![CDATA[people need freedom gotta express their real selves to mean anything 🌱 𝚓𝚘𝚎. 𝚒𝚍𝚎𝚊𝚜. Share to Mastodon]]></summary></entry><entry><title type="html">baby baby</title><link href="http://localhost:4000/baby-baby/" rel="alternate" type="text/html" title="baby baby" /><published>2024-09-24T12:00:00-04:00</published><updated>2024-09-24T12:00:00-04:00</updated><id>http://localhost:4000/baby-baby</id><content type="html" xml:base="http://localhost:4000/baby-baby/"><![CDATA[<p>
+  <audio controls="controls"><source src="https://joesblues.joejenett.com/media/mp3/babybaby.mp3" type="audio/mp3" /></audio><br />joe jenett, 2010
+</p>
+<p>
+    <a href="#" rel="noreferrer noopener" target="mastodon" data-prompt="Please tell me your Mastodon instance" data-edittext="✏️" data-editlabel="Edit your Mastodon instance" class="mastodon-share">
+        Share to Mastodon
+    </a>
+    <script src="/js/mastodon-share.js"></script>
+</p>
+
+<!--
+<a href="https://brid.gy/publish/mastodon"></a>
+-->]]></content><author><name>joe jenett</name></author><category term="[&quot;music&quot;]" /><summary type="html"><![CDATA[joe jenett, 2010 Share to Mastodon]]></summary></entry><entry><title type="html">7 Days and counting</title><link href="http://localhost:4000/7-days-and-counting/" rel="alternate" type="text/html" title="7 Days and counting" /><published>2024-09-19T12:00:00-04:00</published><updated>2024-09-19T12:00:00-04:00</updated><id>http://localhost:4000/7-days-and-counting</id><content type="html" xml:base="http://localhost:4000/7-days-and-counting/"><![CDATA[<p>
+𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝗻𝗲𝗼 is 7 days old today. It’s also my birthday but I stopped counting a long time ago. 😎
+</p>
+<p>
+	The original 𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻 goes back some 25 years and was revived in <a href="https://bulltown.joejenett.com/">2022</a>. Versions <a href="https://joejenett.com/v3/">3</a> and <a href="https://joejenett.com/v4/">4</a> are still online, one of which evolved into my current <a href="https://simply.joejenett.com/">simply.</a> blog.
+</p>
+<p>
+As the saying goes, this ain’t my first rodeo. I love the web!
+</p>
+<p>
+Thank you Neocities community - I appreciate those following 𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝗻𝗲𝗼 and created a little section with your linked buttons on the main page (also at 𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮).
+</p>
+<p>
+Make it a great day and thanks for stopping by…
+</p>
+
+<!--
+<a href="https://brid.gy/publish/mastodon"></a>
+-->]]></content><author><name>joe jenett</name></author><category term="[&quot;site&quot;]" /><summary type="html"><![CDATA[𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝗻𝗲𝗼 is 7 days old today. It’s also my birthday but I stopped counting a long time ago. 😎 The original 𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻 goes back some 25 years and was revived in 2022. Versions 3 and 4 are still online, one of which evolved into my current simply. blog. As the saying goes, this ain’t my first rodeo. I love the web! Thank you Neocities community - I appreciate those following 𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝗻𝗲𝗼 and created a little section with your linked buttons on the main page (also at 𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮). Make it a great day and thanks for stopping by…]]></summary></entry><entry><title type="html">What is this?</title><link href="http://localhost:4000/what-is-this/" rel="alternate" type="text/html" title="What is this?" /><published>2024-09-14T12:00:00-04:00</published><updated>2024-09-14T12:00:00-04:00</updated><id>http://localhost:4000/what-is-this</id><content type="html" xml:base="http://localhost:4000/what-is-this/"><![CDATA[<p>
+	The idea to create <em>bulltown.neo</em> came to me recently as I explored a(nother) newly discovered Neocities site.
+</p>
+<p>
+As a curator (of sorts) on the web since 1997, Neocities holds a special place in my heart. The personal web is flourishing again and they’ve played a big part in its revival. I’m grateful.
+</p>
+<p>
+So here I am y’all, happy to be a small part of this vibrant community.
+</p>
+<p>
+Though bulltown lives on my personal domain, we’ve been neighbors for a long time. Nice to meet ya!
+</p>
+
+<!--
+<a href="https://brid.gy/publish/mastodon"></a>
+-->]]></content><author><name>joe jenett</name></author><category term="[&quot;site&quot;]" /><summary type="html"><![CDATA[The idea to create bulltown.neo came to me recently as I explored a(nother) newly discovered Neocities site. As a curator (of sorts) on the web since 1997, Neocities holds a special place in my heart. The personal web is flourishing again and they’ve played a big part in its revival. I’m grateful. So here I am y’all, happy to be a small part of this vibrant community. Though bulltown lives on my personal domain, we’ve been neighbors for a long time. Nice to meet ya!]]></summary></entry></feed>
