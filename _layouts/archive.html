@@ -1,0 +1,57 @@
+---
+layout: default
+---
+<div style="padding-right:18px;margin-top:36px;">
+	<label for="search-input" style="display:none;">search</label>
+	<input type="text" id="search-input" placeholder="search the blog">
+	<br>
+	<div id="results-container"></div>
+</div>
+<div class="home" style="margin-top:-36px;">
+  {%- if page.title -%}
+    <h1 class="page-heading" style="margin-top:36px;margin-bottom:12px;">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {%- assign posts = site.posts -%}
+  {%- assign groupedByYear = posts | group_by_exp:"post","post.date | date:'%Y' " -%}
+  <!-- total posts: {{ posts.size }} -->
+
+  {%- for yearitem in groupedByYear -%}
+  <yearlist>
+    <year>{{ yearitem.name }}</year>
+
+    <ul>
+    {%- for item in yearitem.items -%}
+    {% if item.title != "" %}
+      <li style="list-style:none;text-indent:-22px;">
+        <span><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></span>
+        <date><small>({{ item.date | date:'%b %-d, %Y'}})</small></date>
+      </li>
+      {% endif %}
+      {% if item.title == "" %}
+      <li style="list-style:none;text-indent:-22px;">
+        <span><a href="{{ site.baseurl }}{{ item.url }}">{{ item.content | strip_html | truncatewords:6 }}</a></span>
+        <date><small>({{ item.date | date:'%b %-d, %Y'}})</small></date>
+      </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+  </yearlist>
+  {% endfor %}
+  
+      <p class="rss-subscribe">subscribe <a href="{{ site.baseurl }}{{ "/feed.xml" }}">via RSS</a></p>
+</div>
+	<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+	<script>
+		SimpleJekyllSearch({
+			searchInput: document.getElementById('search-input'),
+			resultsContainer: document.getElementById('results-container'),
+			json: '/search.json',
+			searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a> <small>({date})</small></li>',
+			noResultsText: 'No results found',
+			limit: 50,
+			fuzzy: false,
+			exclude: ['Welcome']
+		})
+	</script>
+<!-- {{ "/feed.xml" | relative_url }} -->
