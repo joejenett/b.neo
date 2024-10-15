@@ -3,13 +3,28 @@
   <title type="text" xml:lang="en">bulltown.2022</title>
   <link type="application/atom+xml" href="https://bulltown.joejenett.com/feed.atom" rel="self"/>
   <link type="text/html" href="https://bulltown.joejenett.com/" rel="alternate"/>
-  <updated>2024-10-15T10:09:02-04:00</updated>
+  <updated>2024-10-15T10:47:15-04:00</updated>
   <id>https://bulltown.jenett.org/full_content_feed</id>
   <author>
     <name>joe jenett</name>
   </author>
   <rights>2000-2023 © joe jenett. Some rights reserved.</rights>
 
+  
+  <entry>
+    <title>scenes in a window</title>
+    <link href="https://bulltown.jenett.org//scenes-in-a-window/"/>
+    <updated>2024-10-15T10:40:53-04:00</updated>
+    <id>https://bulltown.jenett.org/scenes-in-a-window/</id>
+    <content type="html">&lt;p style=&quot;text-align:center;&quot;&gt;
+&lt;img src=&quot;/images/scenes_in_a_window.png&quot; title=&quot;three scenes in a window&quot; alt=&quot;three scenes in a window&quot; style=&quot;max-width:100%&quot; /&gt;
+&lt;/p&gt;
+
+&lt;!--
+&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;
+--&gt;
+</content>
+  </entry>
   
   <entry>
     <title>my little WebNeko wins again</title>
@@ -32,24 +47,6 @@
 &lt;/p&gt;
 &lt;p style=&quot;font-size:.85em;&quot;&gt;
 	Also at &lt;a href=&quot;https://bulltown.joejenett.com/img.select/&quot;&gt;𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | img.select&lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;!--
-&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;
---&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>in the yard</title>
-    <link href="https://bulltown.jenett.org//in-the-yard/"/>
-    <updated>2024-10-10T12:00:00-04:00</updated>
-    <id>https://bulltown.jenett.org/in-the-yard/</id>
-    <content type="html">&lt;p style=&quot;text-align:center;&quot;&gt;
-	&lt;img src=&quot;/images/in-the-yard.jpg&quot; title=&quot;a photo of deer taken in our backyard in the Spring of 2008&quot; alt=&quot;deer in the woods out back&quot; style=&quot;max-width:100%&quot; /&gt;
-&lt;/p&gt;
-&lt;p&gt;
-	(taken in the spring of 2008)
 &lt;/p&gt;
 
 &lt;!--
