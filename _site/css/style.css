@@ -29,7 +29,6 @@ body {
 	/*margin: 100px 0 0 -12px;
 	border-top: 1px solid #ccc;*/
 	clear: both;
-	margin-top:48px;
 }
 
 #slug {
@@ -42,6 +41,7 @@ body {
 	height:425px;
 	/*margin-top:48px;*/
 	margin-left:-14px;
+	margin-bottom:24px;
 	border:none;
 	overflow:auto;
 	max-width:100%;
@@ -84,7 +84,7 @@ body {
 		display:none; 
 	}
 }
-#mutuals, #followers {
+#mutuals, #followers, #also {
 	font-size: 1em;
 	font-weight: 600;
 	font-style: italic;
@@ -95,7 +95,7 @@ body {
 #followers {
 	padding-top:24px;
 }
-#mutual-buttons, #follower-buttons {
+#mutual-buttons, #follower-buttons, #also-buttons {
 	max-width:578px;
 	padding-left:31px;
 }
@@ -192,7 +192,7 @@ h1 {
 	font-size: 1.3rem;
 }
 h2 {
-	font-size: 1rem;
+	font-size: 1.2rem;
 }
 h3 {
 	font-size: 1.15rem;
