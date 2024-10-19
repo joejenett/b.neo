@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text" xml:lang="en">bulltown.2022</title>
-  <link type="application/atom+xml" href="https://bulltown.joejenett.com/feed.atom" rel="self"/>
-  <link type="text/html" href="https://bulltown.joejenett.com/" rel="alternate"/>
-  <updated>2024-10-17T19:12:28-04:00</updated>
+  <link type="application/atom+xml" href="https://bulltown.neocities.org/feed.atom" rel="self"/>
+  <link type="text/html" href="https://bulltown.neocities.org/" rel="alternate"/>
+  <updated>2024-10-19T14:17:28-04:00</updated>
   <id>https://bulltown.jenett.org/full_content_feed</id>
   <author>
     <name>joe jenett</name>
@@ -13,9 +13,9 @@
   
   <entry>
     <title>scenes in a window</title>
-    <link href="https://bulltown.jenett.org//scenes-in-a-window/"/>
+    <link href="https://bulltown.neocities.org//scenes-in-a-window/"/>
     <updated>2024-10-15T10:40:53-04:00</updated>
-    <id>https://bulltown.jenett.org/scenes-in-a-window/</id>
+    <id>https://bulltown.neocities.org/scenes-in-a-window/</id>
     <content type="html">&lt;p style=&quot;text-align:center;&quot;&gt;
 &lt;img src=&quot;/images/scenes_in_a_window.png&quot; title=&quot;three scenes in a window&quot; alt=&quot;three scenes in a window&quot; style=&quot;max-width:100%&quot; /&gt;
 &lt;/p&gt;
@@ -28,9 +28,9 @@
   
   <entry>
     <title>my little WebNeko wins again</title>
-    <link href="https://bulltown.jenett.org//my-little-webneko-wins-again/"/>
+    <link href="https://bulltown.neocities.org//my-little-webneko-wins-again/"/>
     <updated>2024-10-13T15:15:09-04:00</updated>
-    <id>https://bulltown.jenett.org/my-little-webneko-wins-again/</id>
+    <id>https://bulltown.neocities.org/my-little-webneko-wins-again/</id>
     <content type="html">&lt;p&gt;My finicky friend WebNeko (up there in the left corner) doesn’t always play well with other scripts. At the b22 site, I actually had rebuilt the music section to bring little neko back. Now, here on the neo site, I did away with the Zonelets script, not because I didn’t like it, but because I was able to bring my little buddy back. Yay!&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -39,9 +39,9 @@
   
   <entry>
     <title>Arcade Fire people</title>
-    <link href="https://bulltown.jenett.org//arcade-fire-people/"/>
+    <link href="https://bulltown.neocities.org//arcade-fire-people/"/>
     <updated>2024-10-11T12:00:00-04:00</updated>
-    <id>https://bulltown.jenett.org/arcade-fire-people/</id>
+    <id>https://bulltown.neocities.org/arcade-fire-people/</id>
     <content type="html">&lt;p style=&quot;text-align:center;&quot;&gt;
 &lt;img src=&quot;/images/arcadefire.jpg&quot; title=&quot;people in the audience of the Arcade Fire show&quot; alt=&quot;people in the audience of the Arcade Fire show&quot; style=&quot;max-width:100%&quot; /&gt;
 &lt;/p&gt;
