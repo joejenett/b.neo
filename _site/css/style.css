@@ -589,6 +589,7 @@ div #reasons img {
 		border: none;
 		position:relative;
 		margin:0;
+		left:-8px;
 		/*top: -120px;*/
 		padding-bottom:18px;
 	}
