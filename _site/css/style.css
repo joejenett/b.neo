@@ -589,7 +589,7 @@ div #reasons img {
 		border: none;
 		position:relative;
 		margin:0;
-		top: -120px;
+		/*top: -120px;*/
 		padding-bottom:18px;
 	}
 	.intersect a img {
