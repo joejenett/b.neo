@@ -9,7 +9,9 @@ body {
 }
 #thanks-wrapper, .button-wrapper {
   text-align:center;
-	width:100%;
+	width:98%;
+	position:relative;
+	left:10px;
 }
 #nextprev {
 	font-size: .8rem;
@@ -100,7 +102,7 @@ body {
 }
 #mutual-buttons, #follower-buttons, #also-buttons {
 	max-width:578px;
-	padding-left:31px;
+	padding-left:16px;
 }
 .button {
 	max-width: 88px;
@@ -523,17 +525,14 @@ div #reasons img {
 @media only screen and (max-width:479px) {
 	body {
 		font-size: 18px;
+		
 	}
 	#social {
 		margin: 135px 0 0 0;
 	}
-	#mutual-buttons, #follower-buttons {
-	  max-width: 326px;
-	  padding-left: 40px;
-	}
-	#also-buttons {
-	  max-width: 326px;
-	  padding-left: 50px;
+	#mutual-buttons, #follower-buttons, #also-buttons {
+	  /*width: 326px;
+	  padding-left: 0;*/
 	}
 	#buttsep {
 		margin-top: 154px;
@@ -636,8 +635,8 @@ div #reasons img {
 		padding:8px 4px 8px 16px;*/
 	}
 		#mutual-buttons, #follower-buttons {
-	  max-width: 326px;
-	  padding-left: 52px;
+	  /*max-width: 326px;
+	  padding-left: 52px;*/
 	}
 		#thanks .button {
 		position:relative;
@@ -650,8 +649,8 @@ div #reasons img {
 		padding:8px 4px;*/
 	}
 		#mutual-buttons, #follower-buttons {
-	  max-width: 326px;
-	  padding-left: 34px;
+	  /*max-width: 326px;
+	  padding-left: 34px;*/
 	}
 		#thanks .button {
 		position:relative;
