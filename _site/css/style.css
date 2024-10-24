@@ -527,12 +527,9 @@ div #reasons img {
 	#social {
 		margin: 135px 0 0 0;
 	}
-	#mutual-buttons, #follower-buttons {
+	#mutual-buttons, #follower-buttons, #also-buttons {
 	  max-width: 326px;
 	  padding-left: 40px;
-	}
-	#mutual-buttons, #follower-buttons {
-		/*padding-left: 40px;*/
 	}
 	#buttsep {
 		margin-top: 154px;
