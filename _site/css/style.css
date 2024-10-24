@@ -326,7 +326,8 @@ blockquote {
 }
 #page {
 	width: 100%;
-	overflow: scroll;
+	overflow: auto;
+	padding:0 24px 0 0;
 }
 #branding {
 	width: 100%;
@@ -522,17 +523,27 @@ div #reasons img {
 	border-top: 3px double #29221c;
 }
 
+
+@media only screen and (max-width:679px) {
+	#mutual-buttons, #follower-buttons, #also-buttons {
+		max-width: 326px;
+	}
+}
 @media only screen and (max-width:479px) {
 	body {
-		font-size: 18px;
+		font-size: 14px;
+	}
+	#page {
 		
 	}
 	#social {
 		margin: 135px 0 0 0;
 	}
 	#mutual-buttons, #follower-buttons, #also-buttons {
-	  /*width: 326px;
-	  padding-left: 0;*/
+	/*	max-width: 326px;
+	  padding-left: 20px;
+	  padding-right:0;
+	  display-inline;*/
 	}
 	#buttsep {
 		margin-top: 154px;
