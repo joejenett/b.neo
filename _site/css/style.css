@@ -109,9 +109,29 @@ body {
 	margin: 3px;
 	float: left;
 }
-.button a:hover img, .gbutton a:hover img, .iwt a:hover img, #dabutts a:hover img, #slug a:hover img, .div1 a:hover img, .div2 a:hover img, .div3 a:hover img {
+
+.button a:hover img, .iwt a:hover img, #dabutts a:hover img, #slug a:hover img, .div1 a:hover img, .div2 a:hover img, .div3 a:hover img {
 	transform: scale(1.1);
 }
+#play-gif img, #stop-gif img {
+	width:65px;
+	height:17px;
+	border-radius:6px;
+	border:1px solid #440303;
+
+}
+#play-gif img:hover, #stop-gif img:hover {
+	transform: scale(1.1);
+}
+#play-gif, #stop-gif {
+	width:65px;
+	height:17px;
+	background:none;
+	border:none;
+	position:relative;
+	left:-6px;
+}
+
 a.mastodon-share {
 	display: inline-block;
 	padding: .5em;
@@ -533,8 +553,9 @@ div #reasons img {
 	body {
 		font-size: 14px;
 	}
-	#page {
-		
+	#play-gif, #stop-gif {
+		position:relative;
+		left:-12px;
 	}
 	#social {
 		margin: 135px 0 0 0;
