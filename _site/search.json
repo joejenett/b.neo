@@ -1,6 +1,15 @@
 [
     
       {
+      "title"    : "/fly-like-an-eagle/",
+      "content"  : "\n\tThe DS106 Daily Create had a thought-provoking challenge today. Though I’ve already responded on Mastodon, I’d like to share my timely haiku with ya:\n\n\nsoaring high above\nI see myself blowing leaves\nas they're still falling\n\n\n",
+      "category" : "words",
+      "tags"     : "",
+      "url"      : "http://localhost:4000/fly-like-an-eagle/",
+      "date"     : "Oct 27, 2024"
+    } ,
+  
+      {
       "title"    : "/bluegreen-dream/",
       "content"  : "\n\n\n\n\t(a manipulated version of 𝗯𝟮𝟮 | bluegreen forever)\n\n\n\n",
       "category" : "images",
