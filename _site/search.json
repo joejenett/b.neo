@@ -1,6 +1,15 @@
 [
     
       {
+      "title"    : "/amazed/",
+      "content"  : "\n\n\tcolor me amazed\n\tdifficult men teaming up\n\tto rule the world... not!\n\n\n\n",
+      "category" : "words",
+      "tags"     : "",
+      "url"      : "http://localhost:4000/amazed/",
+      "date"     : "Nov 12, 2024"
+    } ,
+  
+      {
       "title"    : "/new-day-baby/",
       "content"  : "\n\tMake it about your dreams!\n\n\n\n",
       "category" : "words",
