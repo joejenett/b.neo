@@ -7,6 +7,9 @@ body {
 	background:url('/images/leather.png');
 	background-color: #0f0604;
 }
+li {
+	margin-bottom:.3rem;
+}
 #thanks-wrapper, .button-wrapper {
   text-align:center;
 	width:98%;
