@@ -1,9 +1,18 @@
 [
     
       {
+      "title"    : "/dealing-with-88x33-buttons/",
+      "content"  : "\n\tI love button walls but now and then, when saving a site’s button, I find it’s 88x33 instead of 88x31 and using only the width and height attributes ends up breaking my layout. It seems that browsers follow the height attribute and reduce the width accordingly. I came up with a solution that worked for me (adding a little style) - it may not be the ’best practice’ but I decided to share just in case others find it useful: \n\n\n\n\t&lt;img src=\"/images/IMAGENAME.EXTENSION\" alt=\"ALT TEXT\" width=\"88\" height=\"31\" style=\"min-width:88px;max-height:31px;\"&gt;\n\n\n\n",
+      "category" : "devtips",
+      "tags"     : "",
+      "url"      : "http://localhost:4000/dealing-with-88x33-buttons/",
+      "date"     : "Dec 13, 2024"
+    } ,
+  
+      {
       "title"    : "/sites-i-like-12-02-24/",
       "content"  : "\n\tselections from a long list...\n\n\n\tmakoenergy‧₊˚✧\n\tThe Satyrs’ Forest 🍇\n\tThe DS106 Daily Create\n\tdreamwiki\n\tRotating Sandwiches\n\tmelankorin.net✱\n\tmanyface world\n\n\n\n",
-      "category" : "sites.i.like",
+      "category" : "i.like",
       "tags"     : "",
       "url"      : "http://localhost:4000/sites-i-like-12-02-24/",
       "date"     : "Dec 2, 2024"
@@ -12,7 +21,7 @@
       {
       "title"    : "/sites-i-like-11-29-24/",
       "content"  : "\n\tjust a few of ’em...\n\n\nBohemian Sultriness\ndimden's hotel\n♡ cinni's dream home ♡\n32-Bit Cafe\nFrills\nmaya.land\nSakura Dreams\n\n\n\n",
-      "category" : "sites.i.like",
+      "category" : "i.like",
       "tags"     : "",
       "url"      : "http://localhost:4000/sites-i-like-11-29-24/",
       "date"     : "Nov 29, 2024"

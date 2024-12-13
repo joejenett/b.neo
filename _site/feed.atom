@@ -3,13 +3,30 @@
   <title type="text" xml:lang="en">bulltown.neo</title>
   <link type="application/atom+xml" href="https://bulltown.neocities.org/feed.atom" rel="self"/>
   <link type="text/html" href="https://bulltown.neocities.org/" rel="alternate"/>
-  <updated>2024-12-13T10:05:32-05:00</updated>
+  <updated>2024-12-13T11:04:24-05:00</updated>
   <id>https://bulltown.neocities.org/full_content_feed</id>
   <author>
     <name>joe jenett</name>
   </author>
   <rights>2000-2023 © joe jenett. Some rights reserved.</rights>
 
+  
+  <entry>
+    <title>dealing with 88x33 buttons</title>
+    <link href="https://bulltown.neocities.org/dealing-with-88x33-buttons/"/>
+    <updated>2024-12-13T09:30:31-05:00</updated>
+    <id>https://bulltown.neocities.org/dealing-with-88x33-buttons/</id>
+    <content type="html">&lt;p&gt;
+	I love button walls but now and then, when saving a site’s button, I find it’s 88x33 instead of 88x31 and using only the &lt;em&gt;width&lt;/em&gt; and &lt;em&gt;height&lt;/em&gt; attributes ends up breaking my layout. It seems that browsers follow the height attribute and reduce the width accordingly. I came up with a solution that worked for me (adding a little &lt;em&gt;style&lt;/em&gt;) - it may not be the ’best practice’ but I decided to share just in case others find it useful: 
+&lt;/p&gt;
+
+&lt;p&gt;
+	&lt;code&gt;&amp;lt;img src=&quot;/images/&lt;small&gt;IMAGENAME.EXTENSION&lt;/small&gt;&quot; alt=&quot;&lt;small&gt;ALT TEXT&lt;/small&gt;&quot; width=&quot;88&quot; height=&quot;31&quot; style=&quot;min-width:88px;max-height:31px;&quot;&amp;gt;&lt;/code&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>sites.i.like 12-02-24</title>
@@ -50,22 +67,6 @@
 &lt;li&gt;&lt;a title=&quot;maya.land&quot; href=&quot;https://maya.land/&quot;&gt;maya.land&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a title=&quot;Sakura Dreams&quot; href=&quot;https://sakuradreams.neocities.org/&quot;&gt;Sakura Dreams&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>amazed</title>
-    <link href="https://bulltown.neocities.org/amazed/"/>
-    <updated>2024-11-12T13:13:08-05:00</updated>
-    <id>https://bulltown.neocities.org/amazed/</id>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/joet.jpg&quot; width=&quot;60&quot; alt=&quot;&quot; style=&quot;position:relative;float:right;margin: 0 18px;&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;
-	color me amazed&lt;br /&gt;
-	difficult men teaming up&lt;br /&gt;
-	to rule the world... not!
-&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
