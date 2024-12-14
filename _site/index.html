@@ -93,7 +93,14 @@
 </div>
 		<!--main aria-label="Content"-->
 		<div id="page">
-			<div id="menu" style="font-size:.85em;padding-top:12px;border-bottom:1px solid #d7c2c1;">
+			<script>
+function doit() {
+  const audio = new Audio('hohoho.mp3');
+  audio.play();
+}
+</script>
+	
+<div id="menu" style="font-size:.85em;padding-top:12px;border-bottom:1px solid #d7c2c1;">
 	<span style="margin-right:12px;color:#440303;font-weight:600;font-size:1.1em;">bulltown<span style="color:#8b9675;">.2022</span>: </span><br>
 	<a href="https://bulltown.joejenett.com/"> b22 home</a>
 	<a href="https://bulltown.joejenett.com/img.select/">b22 img.select</a>
@@ -116,8 +123,10 @@
 		<p>
 			Please feel at home...
 		</p>
-		<div class="announce" style="margin-top:6px;">
-			<iframe src="https://joejenett.com/announce/announce.html" style="width:350px;max-height:75px;border:none;"></iframe>
+		<div class="announce" style="margin-top:6px;font-style:normal;">
+			<p onclick="javascript:doit()">
+			<iframe id="announcer" src="https://joejenett.com/announce/announce.html" style="width:350px;max-height:75px;border:none;"></iframe>
+			<span style="font-size:1.5em;position:relative;top:-.7em;margin-bottom:0;">🎁</span></p>
 		</div>
 				
 
