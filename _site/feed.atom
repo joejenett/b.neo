@@ -3,13 +3,31 @@
   <title type="text" xml:lang="en">bulltown.neo</title>
   <link type="application/atom+xml" href="https://bulltown.neocities.org/feed.atom" rel="self"/>
   <link type="text/html" href="https://bulltown.neocities.org/" rel="alternate"/>
-  <updated>2024-12-15T07:18:51-05:00</updated>
+  <updated>2024-12-15T16:00:26-05:00</updated>
   <id>https://bulltown.neocities.org/full_content_feed</id>
   <author>
     <name>joe jenett</name>
   </author>
   <rights>2000-2023 © joe jenett. Some rights reserved.</rights>
 
+  
+  <entry>
+    <title>meet my buddy Clive</title>
+    <link href="https://bulltown.neocities.org/meet-my-buddy-clive/"/>
+    <updated>2024-12-15T14:48:16-05:00</updated>
+    <id>https://bulltown.neocities.org/meet-my-buddy-clive/</id>
+    <content type="html">&lt;p&gt;
+	I’ve already shared this song elsewhere but after just listening to it (yet again), I just gotta do it again!
+&lt;/p&gt;
+&lt;p&gt;
+&lt;iframe style=&quot;border: 0; width: 100%; height: 42px;&quot; src=&quot;https://bandcamp.com/EmbeddedPlayer/album=2158926211/size=small/bgcol=ffffff/linkcol=0687f5/track=3346588851/transparent=true/&quot; seamless=&quot;&quot;&gt;&lt;a href=&quot;https://clivemurray.bandcamp.com/album/love-and-painkillers&quot;&gt;Love and Painkillers by Clive Murray&lt;/a&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;
+&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>dealing with 88x33 buttons</title>
@@ -44,28 +62,6 @@
 	&lt;li&gt;&lt;a title=&quot;Rotating Sandwiches – that&apos;s it&quot; href=&quot;https://rotatingsandwiches.wordpress.com/&quot;&gt;Rotating Sandwiches&lt;/a&gt;&lt;/li&gt;
 	&lt;li&gt;&lt;a title=&quot;Kori&quot; href=&quot;https://melankorin.net/&quot;&gt;melankorin.net✱&lt;/a&gt;&lt;/li&gt;
 	&lt;li&gt;&lt;a title=&quot;jáščer et al.&quot; href=&quot;https://manyface.neocities.org/&quot;&gt;manyface world&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>sites.i.like 11-29-24</title>
-    <link href="https://bulltown.neocities.org/sites-i-like-11-29-24/"/>
-    <updated>2024-11-29T15:03:39-05:00</updated>
-    <id>https://bulltown.neocities.org/sites-i-like-11-29-24/</id>
-    <content type="html">&lt;p&gt;
-	just a few of ’em...
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a title=&quot;Bohemian Sultriness&quot; href=&quot;https://bohemiansultriness.nekoweb.org/&quot;&gt;Bohemian Sultriness&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&quot;dimden&apos;s hotel&quot; href=&quot;https://dimden.dev/&quot;&gt;dimden&apos;s hotel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&quot;♡ cinni&apos;s dream home ♡&quot; href=&quot;https://cinni.net/&quot;&gt;♡ cinni&apos;s dream home ♡&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&quot;32-Bit Cafe&quot; href=&quot;https://32bit.cafe/&quot;&gt;32-Bit Cafe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&quot;Frills&quot; href=&quot;https://frills.dev/&quot;&gt;Frills&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&quot;maya.land&quot; href=&quot;https://maya.land/&quot;&gt;maya.land&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&quot;Sakura Dreams&quot; href=&quot;https://sakuradreams.neocities.org/&quot;&gt;Sakura Dreams&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;

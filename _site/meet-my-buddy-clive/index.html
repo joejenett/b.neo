@@ -42,12 +42,12 @@
 <link rel="me" href="mailto:joe.jenett@jenett.org">
 
 <meta name="description" content="the neocities’ offspring of bulltown - a new take on content from the bulltown archives, circa 1998-2004">
-<link rel="canonical" href="https://bulltown.neocities.org">
+<link rel="canonical" href="https://bulltown.neocities.org/meet-my-buddy-clive/">
 <meta property='og:site_name' content='bulltown.neo'>
-<meta property="og:url" content="https://bulltown.neocities.org/devtips/">
+<meta property="og:url" content="https://bulltown.neocities.org/meet-my-buddy-clive/">
 <meta property="og:locale" content="en_US">
 <meta property="og:description" content="the neocities’ offspring of bulltown - a new take on content from the bulltown archives, circa 1998-2004">
-<meta property="og:title" content="">
+<meta property="og:title" content="meet my buddy Clive">
 <meta property='og:type' content='website'>
 <meta property='og:image' content='https://bulltown.neocities.org/b-neo.png'>
 <meta property='og:image:width' content='300'>
@@ -55,7 +55,7 @@
 <meta name='twitter:card' content='summary'>
 <meta name='twitter:creator' content='@joejenett'>
 <meta name='twitter:site' content='@joejenett'>
-<meta name="twitter:title" content="">
+<meta name="twitter:title" content="meet my buddy Clive">
 <meta name='twitter:image' content='https://bulltown.neocities.org/b-neo.png'>
 <meta name="twitter:description" content="the neocities’ offspring of bulltown - a new take on content from the bulltown archives, circa 1998-2004">
 
@@ -93,582 +93,114 @@
 </div>
 		<!--main aria-label="Content"-->
 		<div id="page">
-			<article class="post"><header class="post-header">
-    <h1 class="post-title" style="margin-top:48px;"></h1>
-  </header><div class="post-content">
-    <script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝗻𝗲𝗼 | devtips"</script>
-
-<h1>devtips:</h1>
-<ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li><a href="/dealing-with-88x33-buttons/">dealing with 88x33 buttons</a>
-        <date><small>(Dec 13, 2024)</small></date></li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</ul>
-
-
-  </div>
-
-</article><div class="footer">
-	<p style="margin-left:-12px;font-size:.75rem;text-align:center;border-top:1px solid #ddd;margin-top:36px;padding-top:8px;">
+			<div style="padding-right:18px;margin-top:36px;">
+	<label for="search-input" style="display:none;">search</label>
+	<input type="text" id="search-input" placeholder="search the blog">
+	<br>
+	<div id="results-container"></div>
+</div>
+
+<div style="display:flex;font-size:.75em;font-weight:400;margin:12px 0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+	<div style="width:50%;">
+		
+		<a href="/dealing-with-88x33-buttons/">&larr; previous</a>
+		
+	</div>
+	<div style="width:50%;text-align:right;">
+		
+	</div>
+</div> 
+
+<article class="h-entry post hentry" itemscope itemtype="http://schema.org/BlogPosting">
+	<header class="post-header">
+		<h2 class="post-title p-name" style="margin-top:18px;color:#440303;" itemprop="name headline">meet my buddy Clive</h2>
+	</header>
+	<div style="margin-right:12px;" class="post-content e-content" itemprop="articleBody">
+		<p>
+	I’ve already shared this song elsewhere but after just listening to it (yet again), I just gotta do it again!
+</p>
+<p>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2158926211/size=small/bgcol=ffffff/linkcol=0687f5/track=3346588851/transparent=true/" seamless=""><a href="https://clivemurray.bandcamp.com/album/love-and-painkillers">Love and Painkillers by Clive Murray</a></iframe>
+</p>
+
+<p>
+<a href="https://brid.gy/publish/mastodon"></a>
+</p>
+
+	</div>
+	<footer class="post-footer">
+		<p class="post-meta" style="position:relative;top:-4px;">
+			<span class="h-card">
+				<a class="url u-url u-uid uid bookmark" href="https://bulltown.neocities.org"><time class="dt-published" datetime="2024-12-15T14:48:16-05:00" itemprop="datePublished">Dec 15, 2024
+				</time></a>• <span class="author p-author" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="u-url url fn u-uid" href="https://bulltown.neocities.org/" rel="author"><img alt="bulltown.neo" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=360&amp;d=default&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=180&amp;d=default&amp;r=pg 2x" class="u-photo photo" loading="lazy" width="24" height="24" style="vertical-align:middle;"></a>
+					<a class="url uid u-url u-uid fn p-name" rel="author" itemprop="url" href="/"><span class="p-author p-name" itemprop="name">joe jenett</span></a>
+				</span><span class="post-categories">• posted in:
+				
+				
+				<a class="p-category" href="/categories/#music">music</a>
+				
+				
+				</span>
+			</p>
+		</span>
+	</footer><div style="display:flex;font-size:.75em;font-weight:400;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:18px;">
+	<div style="width:50%;">
+		
+		<a href="/dealing-with-88x33-buttons/">&larr; previous</a>
+		
+	</div>
+	<div style="width:50%;text-align:right;">
+		
+	</div>
+</div>
+	<script>
+		$().ready(function(){
+			$.getJSON( "https://webmention.io/api/mentions?token=Bbeh8Vrr0wzBQUsaAa6byw",
+			function( mydata ) {
+				console.log(mydata);
+				var output = '';
+				$.each(mydata.links, function(i, v) {
+					if (v.target.search(new RegExp(/meet-my-buddy-clive/i)) != -1) {
+						output = '<div style="margin-top:18px;font-size:.9em;font-weight:600;">Reactions: </div>';
+					}
+				});
+				$.each(mydata.links, function(i, v) {
+					if (v.target.search(new RegExp(/meet-my-buddy-clive/i)) != -1) {
+						output += '<a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="" width="48"></a> ';
+					}
+				});
+				output += ' ';
+				$('#result').html(output);
+			});	
+		});
+	</script>
+	<div id="result"></div>
+
+
+	<a class="u-url hidden" href="https://bulltown.neocities.org/meet-my-buddy-clive/"></a>
+</article>
+<div style="margin-top:72px;"><div class="footer">
+	<p style="font-size:.75rem;text-align:center;border-top:1px solid #ddd;margin-top:36px;padding-top:8px;">
 		<big>𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝗻𝗲𝗼</big> <br><!--Designed &amp; developed --><span style="font-style:italic;">by <a href="https://iwebthings.joejenett.com/">joe jenett</a></span>.
 	</p>
 	<p style="font-size:.75rem;text-align:center;">Powered by <a href="https://jekyllrb.com/">Jekyll</a>, <a href="https://github.com/">GitHub</a>, and <a href="https://neocities.org/">Neocities</a>.<br> &copy; 1997-2024. Some rights reserved.<br>Content: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY NC SA 4.0 License</a>.<br>For a mature audience. <a href="https://iwebthings.joejenett.com/privacy_policy/">Privacy Policy</a>
 	</p>
 </div>
-	 
+</div>
+	<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+	<script>
+		SimpleJekyllSearch({
+			searchInput: document.getElementById('search-input'),
+			resultsContainer: document.getElementById('results-container'),
+			json: '/search.json',
+			searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a> <small>({date})</small></li>',
+			noResultsText: 'No results found',
+			limit: 50,
+			fuzzy: false,
+			exclude: ['Welcome']
+		})
+	</script>
+			 
 		</div>
 	</div>
 	<script src="/js/freezeframe.min.js"></script>

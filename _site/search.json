@@ -1,6 +1,15 @@
 [
     
       {
+      "title"    : "/meet-my-buddy-clive/",
+      "content"  : "\n\tI’ve already shared this song elsewhere but after just listening to it (yet again), I just gotta do it again!\n\n\nLove and Painkillers by Clive Murray\n\n\n\n\n\n",
+      "category" : "music",
+      "tags"     : "",
+      "url"      : "http://localhost:4000/meet-my-buddy-clive/",
+      "date"     : "Dec 15, 2024"
+    } ,
+  
+      {
       "title"    : "/dealing-with-88x33-buttons/",
       "content"  : "\n\tI love button walls but now and then, when saving a site’s button, I find it’s 88x33 instead of 88x31 and using only the width and height attributes ends up breaking my layout. It seems that browsers follow the height attribute and reduce the width accordingly. I came up with a solution that worked for me (adding a little style) - it may not be the ’best practice’ but I decided to share just in case others find it useful: \n\n\n\n\t&lt;img src=\"/images/IMAGENAME.EXTENSION\" alt=\"ALT TEXT\" width=\"88\" height=\"31\" style=\"min-width:88px;max-height:31px;\"&gt;\n\n\n\n",
       "category" : "devtips",
