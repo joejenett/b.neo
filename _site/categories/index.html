@@ -65,6 +65,18 @@
 <body>
 	<div id="container">
 		<div id="branding"><script>NekoType="marmalade"</script>
+<script>
+const audio = new Audio("/clock.mp3");
+audio.addEventListener('canplaythrough', audio.play , false);
+function fire() {
+audio.play();
+} 
+</script>
+<script>
+function clearit() {
+document.getElementById("activate").style.visibility = "hidden"; 
+}
+</script>
 <div id="nl">
 	<script src="https://webneko.net/n20171213.js"></script><a 
 	href="https://bulltown.neocities.org/">home</a>
@@ -72,23 +84,25 @@
 <div id="slug" style="margin-left:40px;">
 		<a href="/"><img src="/images/neo-slug.png" title="home" alt="" width="36" style="position:relative;left:3px;"></a><br>
 		<a href="https://bulltown.joejenett.com/"><img src="/images/b22-48.png" title="home" alt="" width="48">
-	<!--<a href="/"><img src="/images/n-slug.png" title="home" alt="" width="48"></a>-->
 </div>
-<h1><a style="color: #440303;font-weight:800;font-size:1.3em;" href="/" title="home">bulltown<span style="color:#8b9675;">.neo</span></a></h1>
+
+ <h1><a style="color: #440303;font-weight:800;font-size:1.3em;" href="/" title="home">bulltown<span style="color:#8b9675;">.neo</span></a> <span id="activate" onclick="clearit();">
+<a href="javascript:clearit():" style="font-size:.65em;border:1px solid #8b9575;padding:2px;margin-left:4px;position:relative;top:-3px;">go sound</a>
+ </span></h1>
 	<div id="header" style="margin-top:0;">
-		<a href="/">home</a>
-		<a href="/archive/">blog archive</a>
-		<a href="/site/">site</a>
-		<a href="/music/">music</a>
-		<a href="/words/">words</a>
-		<a href="/images/">images</a>
-		<a href="/i.like/">i.like</a>
-		<a href="/devtips/">devtips</a>
-		<a href="/links/">links</a>
-		<a href="/#rings">webrings</a>
-		<a href="https://neocities.org/site/bulltown">@neocities</a>
-		<a href="https://joejenett.com/">about</a>
-		<a href="https://joejenett.com/contact/">contact</a>
+		<a onmouseover="fire();" onmouseout="audio.pause();" href="/">home</a>
+		<a onmouseover="fire();" onmouseout="audio.pause();" href="/archive/">blog archive</a>
+		<a onmouseover="fire();" onmouseout="audio.pause();" href="/site/">site</a>
+		<a onmouseover="fire();" onmouseout="audio.pause();" href="/music/">music</a>
+		<a onmouseover="fire();" onmouseout="audio.pause();" href="/words/">words</a>
+		<a onmouseover="fire();" onmouseout="audio.pause();" href="/images/">images</a>
+		<a onmouseover="fire();" onmouseout="audio.pause();" href="/i.like/">i.like</a>
+		<a onmouseover="fire();" onmouseout="audio.pause();" href="/devtips/">devtips</a>
+		<a onmouseover="fire();" onmouseout="audio.pause();" href="/links/">links</a>
+		<a onmouseover="fire();" onmouseout="audio.pause();" href="/#rings">webrings</a>
+		<a onmouseover="fire();" onmouseout="audio.pause();" href="https://neocities.org/site/bulltown">@neocities</a>
+		<a onmouseover="fire();" onmouseout="audio.pause();" href="https://joejenett.com/">about</a>
+		<a onmouseover="fire();" onmouseout="audio.pause();" href="https://joejenett.com/contact/">contact</a>
 	</div>
 </div>
 		<!--main aria-label="Content"-->
