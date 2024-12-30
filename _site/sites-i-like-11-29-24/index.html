@@ -63,6 +63,7 @@
 <title>𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝗻𝗲𝗼</title>
 </head>
 <body>
+	<a id="top"></a>
 	<div id="container">
 		<div id="branding"><script>NekoType="marmalade"</script>
 <script>
@@ -91,12 +92,12 @@ document.getElementById("activate").style.visibility = "hidden";
 	href="https://bulltown.neocities.org/">home</a>
 </div>
 <div id="slug" style="margin-left:40px;">
-		<a href="/"><img src="/images/neo-slug.png" title="home" alt="" width="36" style="position:relative;left:3px;"></a><br>
-		<a href="https://bulltown.joejenett.com/"><img src="/images/b22-48.png" title="home" alt="" width="48">
+		<a href="/"><img src="/images/neo-slug.png" title="b.neo home" alt="b.neo home" width="36" style="position:relative;left:3px;"></a><br>
+		<a href="https://bulltown.joejenett.com/"><img src="/images/b22-48.png" title="b22 home" alt="b22 home" width="48">
 </div>
 
- <h1><a style="color: #440303;font-weight:800;font-size:1.3em;" href="/" title="home">bulltown<span style="color:#8b9675;">.neo</span></a> <span id="activate" onclick="clearit();">
-<a href="#" onclick="clearit();" style="font-size:.55em;border:1px solid #8b9575;padding:1px 2px 2px 2px;margin-left:4px;position:relative;top:-3px;">go sound</a>
+ <h1><a style="color: #440303;font-weight:800;font-size:1.3em;" href="/" title="home">bulltown<span style="color:#6f775e;">.neo</span></a> <span id="activate" onclick="clearit();">
+<a href="#top" onclick="clearit();" style="font-size:.55em;border:1px solid #8b9575;padding:1px 2px 2px 2px;margin-left:4px;position:relative;top:-3px;">go sound</a>
  </span></h1>
 	<div id="header" style="margin-top:0;">
 		<a onmouseover="fire();" onmouseout="audio.pause();" href="/">home</a>
@@ -154,7 +155,7 @@ document.getElementById("activate").style.visibility = "hidden";
 <li><a title="Sakura Dreams" href="https://sakuradreams.neocities.org/">Sakura Dreams</a></li>
 </ul>
 
-<p><a href="https://brid.gy/publish/mastodon"></a></p>
+<p><a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a></p>
 
 	</div>
 	<footer class="post-footer">
@@ -197,7 +198,7 @@ document.getElementById("activate").style.visibility = "hidden";
 				});
 				$.each(mydata.links, function(i, v) {
 					if (v.target.search(new RegExp(/sites-i-like-11-29-24/i)) != -1) {
-						output += '<a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="" width="48"></a> ';
+						output += '<a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="source of reaction" width="48"></a> ';
 					}
 				});
 				output += ' ';
@@ -208,7 +209,7 @@ document.getElementById("activate").style.visibility = "hidden";
 	<div id="result"></div>
 
 
-	<a class="u-url hidden" href="https://bulltown.neocities.org/sites-i-like-11-29-24/"></a>
+	<p><a class="u-url hidden" href="https://bulltown.neocities.org/sites-i-like-11-29-24/"><small>(permalink)</small></a></p>
 </article>
 <div style="margin-top:72px;"><div class="footer">
 	<p style="font-size:.75rem;text-align:center;border-top:1px solid #ddd;margin-top:36px;padding-top:8px;">
