@@ -3,7 +3,7 @@
   <title type="text" xml:lang="en">bulltown.neo</title>
   <link type="application/atom+xml" href="https://bulltown.neocities.org/feed.atom" rel="self"/>
   <link type="text/html" href="https://bulltown.neocities.org/" rel="alternate"/>
-  <updated>2025-01-01T06:57:06-05:00</updated>
+  <updated>2025-01-01T10:44:17-05:00</updated>
   <id>https://bulltown.neocities.org/full_content_feed</id>
   <author>
     <name>joe jenett</name>
@@ -17,7 +17,7 @@
     <updated>2024-12-27T08:20:41-05:00</updated>
     <id>https://bulltown.neocities.org/that-other-desktop/</id>
     <content type="html">&lt;p style=&quot;text-align:center;&quot;&gt;
-&lt;img src=&quot;/images/that-other-desktop.png&quot; title=&quot;that other desktop&quot; alt=&quot;that other desktop&quot; style=&quot;max-width:100%&quot; /&gt;
+&lt;img src=&quot;/images/that-other-desktop.png&quot; width=&quot;100%&quot; title=&quot;that other desktop&quot; alt=&quot;that other desktop&quot; style=&quot;max-width:100%&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;
 	It kinda jibes with my computer‘s &lt;a href=&quot;https://simply.joejenett.com/desk4.html&quot;&gt;main screen&lt;/a&gt;, a product of my ongoing desktop design therapy...😎
