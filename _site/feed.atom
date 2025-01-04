@@ -3,7 +3,7 @@
   <title type="text" xml:lang="en">bulltown.neo</title>
   <link type="application/atom+xml" href="https://bulltown.neocities.org/feed.atom" rel="self"/>
   <link type="text/html" href="https://bulltown.neocities.org/" rel="alternate"/>
-  <updated>2025-01-02T15:48:57-05:00</updated>
+  <updated>2025-01-04T15:26:57-05:00</updated>
   <id>https://bulltown.neocities.org/full_content_feed</id>
   <author>
     <name>joe jenett</name>
@@ -22,7 +22,7 @@
 &lt;p&gt;
 	It kinda jibes with my computer‘s &lt;a href=&quot;https://simply.joejenett.com/desk4.html&quot;&gt;main screen&lt;/a&gt;, a product of my ongoing desktop design therapy...😎
 &lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;small&gt;(cross-posted to mastodon)&lt;/small&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a style=&quot;display:none;&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;small&gt;(cross-posted to mastodon)&lt;/small&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
   
@@ -39,7 +39,7 @@
 &lt;/p&gt;
 
 &lt;p&gt;
-&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;small&gt;(cross-posted to mastodon)&lt;/small&gt;&lt;/a&gt;
+&lt;a style=&quot;display:none;&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;small&gt;(cross-posted to mastodon)&lt;/small&gt;&lt;/a&gt;
 &lt;/p&gt;
 </content>
   </entry>
@@ -57,7 +57,7 @@
 	&lt;code&gt;&amp;lt;img src=&quot;/images/&lt;small&gt;IMAGENAME.EXTENSION&lt;/small&gt;&quot; alt=&quot;&lt;small&gt;ALT TEXT&lt;/small&gt;&quot; width=&quot;88&quot; height=&quot;31&quot; style=&quot;min-width:88px;max-height:31px;&quot;&amp;gt;&lt;/code&gt;
 &lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;small&gt;(cross-posted to mastodon)&lt;/small&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a style=&quot;display:none;&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;small&gt;(cross-posted to mastodon)&lt;/small&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
   
