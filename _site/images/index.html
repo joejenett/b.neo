@@ -119,11 +119,12 @@ document.getElementById("activate").style.visibility = "hidden";
 		<!--main aria-label="Content"-->
 		<div id="page">
 			<article class="post">
-<!--<header class="post-header">
-    <h1 class="post-title" style="margin-top:48px;"></h1>
-  </header>-->
   <div class="post-content">
-    <script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝗻𝗲𝗼 | images"</script>
+    <link href="/css/featherlight.min.css" type="text/css" rel="stylesheet" />
+
+<link href="/css/featherlight.gallery.min.css" type="text/css" rel="stylesheet" />
+
+<script>document.title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝗻𝗲𝗼 | images"</script>
 
 <h1>images:</h1>
 <ul>
@@ -626,6 +627,35 @@ document.getElementById("activate").style.visibility = "hidden";
 
 </ul>
 
+<h2>lightbox:</h2>
+<p>
+<div class="gallery-container">
+		<a class="gallery" href="/images/that-other-desktop.png"><img alt="that other desktop" src="/images/thumb_that-other-desktop.jpg" /></a>
+		<a class="gallery" href="/images/gulfcoast.png"><img alt="gulfcoast" src="/images/thumb_gulfcoast.jpg" /></a>
+		<a class="gallery" href="/images/bluegreendream.png"><img alt="bluegreen dream" src="/images/thumb_bluegreendream.jpg" /></a>
+		<a class="gallery" href="/images/scenes_in_a_window.png"><img alt="scenes in a window" src="/images/thumb_scenes_in_a_window.jpg" /></a>
+		<a class="gallery" href="/images/arcadefire.jpg"><img alt="Arcade Fire people" src="/images/thumb_arcadefire.jpg" /></a>
+		<a class="gallery" href="/images/in-the-yard.png"><img alt="in the yard" src="/images/thumb_in-the-yard.jpg" /></a>
+</div>
+</p>
+<script src="/js/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+
+<script src="/js/featherlight.gallery.min.js" type="text/javascript" charset="utf-8"></script>
+
+<script>
+	$(document).ready(function(){
+		$('.gallery').featherlightGallery({
+			gallery: {
+				fadeIn: 300,
+				fadeOut: 300
+			},
+			openSpeed:    300,
+			closeSpeed:   300
+		});
+	});
+</script>
+
+
   </div>
 
 </article><div class="footer">
@@ -640,4 +670,5 @@ document.getElementById("activate").style.visibility = "hidden";
 	</div>
 	<script src="/js/freezeframe.min.js"></script>
 </body>
+
 </html>

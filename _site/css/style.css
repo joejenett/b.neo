@@ -526,14 +526,14 @@ div #reasons img {
 	align-items: center;
 	justify-content: center;
 }
-#footer {
+.footer {
 	width: 100%;
 	text-align: center;
 	font-size: .9rem;
 	font-weight: 400;
 	clear: both;
 	margin-bottom: 12px;
-	border-top: 4px double #ccc;
+	/*border-top: 4px double #ccc;*/
 	padding: 8px 0 8px 0;
 	position: relative;
 	top: 12px;
