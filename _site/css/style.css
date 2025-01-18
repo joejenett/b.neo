@@ -523,6 +523,13 @@ div #reasons img {
 	padding: 16px 40px 0 40px;
 	clear:both;
 }
+#links-mutuals {
+	font-size: 1em;
+	font-weight: 600;
+	font-style: italic;
+	text-align: center;
+	padding: 16px 40px 14px 40px;
+}
 #buttsep {
 	margin-top: 154px;
 }
@@ -622,7 +629,7 @@ div>#show-cover img {
 		font-size: 14px;
 	}
 	#hcard-container {
-		margin:0 40px;
+		margin:0 0px;
 	}
 	#bfixer {
 		max-width: 92%;
@@ -657,6 +664,9 @@ div>#show-cover img {
 	#mutuals, #followers, #also {
 		padding: 14px 40px 14px 40px;	
 	}
+	#links-mutuals {
+	padding: 14px 40px 14px 40px;
+}
 	#mutual-buttons, #follower-buttons, #also-buttons {
 		padding: 16px 40px;
 	}
