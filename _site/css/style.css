@@ -294,14 +294,6 @@ p {
 	text-align:center;
 	width:100%;
 }
-#hcard-container {
-	text-align: center;
-	font-size: .9em;
-	margin: 10px 190px 0 178px;
-	border: 1px solid #440303;
-	padding: 10px 0 10px 0;
-	border-radius: 10px;
-}
 .hcard-header p, .hcard-body p {
 	line-height: 1.2em;
 	margin: 0;
@@ -579,9 +571,13 @@ div #nl {
 }
 #hcard-container {
 	position:relative;
-	margin:0 180px;
 	left:-8px;
-	padding-bottom:18px;
+	text-align: center;
+	font-size: .9em;
+	margin:0 180px;
+	border: 1px solid #440303;
+	padding: 10px 0 10px 0;
+	border-radius: 10px;
 }
 .intersect a img {
 	max-width: 360px;
@@ -629,7 +625,7 @@ div>#show-cover img {
 		font-size: 14px;
 	}
 	#hcard-container {
-		margin:0 0px;
+		margin:0 40px;
 	}
 	#bfixer {
 		max-width: 92%;
