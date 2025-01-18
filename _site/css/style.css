@@ -83,17 +83,6 @@ li {
 	padding-bottom:9px;
 	text-align:center;
 }
-#mutuals, #followers, #also {
-	font-size: 1em;
-	font-weight: 600;
-	font-style: italic;
-	text-align: center;
-	padding: 2px 40px 6px 40px;
-	clear:both;
-}
-#also {
-	padding: 24px 0 6px 0;
-}
 #followers {
 	padding-top:24px;
 }
@@ -531,7 +520,7 @@ div #reasons img {
 	font-weight: 600;
 	font-style: italic;
 	text-align: center;
-	padding: 14px 40px 6px 40px;
+	padding: 16px 40px 0 40px;
 	clear:both;
 }
 #buttsep {
@@ -582,11 +571,9 @@ div #nl {
 	margin: 36px 20px;
 }
 #hcard-container {
-	/*border: none;*/
 	position:relative;
-	margin:0 30px;
+	margin:0 180px;
 	left:-8px;
-	/*top: -120px;*/
 	padding-bottom:18px;
 }
 .intersect a img {
@@ -634,6 +621,9 @@ div>#show-cover img {
 	body {
 		font-size: 14px;
 	}
+	#hcard-container {
+		margin:0 40px;
+	}
 	#bfixer {
 		max-width: 92%;
 	}
@@ -663,6 +653,9 @@ div>#show-cover img {
 	}
 	#social {
 		margin: 135px 0 0 0;
+	}
+	#mutuals, #followers, #also {
+		padding: 14px 40px 14px 40px;	
 	}
 	#mutual-buttons, #follower-buttons, #also-buttons {
 		padding: 16px 40px;
