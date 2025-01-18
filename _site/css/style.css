@@ -8,7 +8,7 @@ body {
 	background-color: #0f0604;
 }
 #activate {
-visibility:visible;
+	visibility:visible;
 }
 #buttons {
 	text-align:center;
@@ -31,8 +31,6 @@ li {
 }
 #thanks-wrapper, .button-wrapper {
 	text-align:center;
-	/*position:relative;
-	left:10px;*/
 }
 #nextprev {
 	font-size: .8rem;
@@ -49,8 +47,6 @@ li {
 }
 #social {
 	text-align: center;
-	/*margin: 100px 0 0 -12px;
-	border-top: 1px solid #ccc;*/
 	clear: both;
 }
 
@@ -62,7 +58,6 @@ li {
 #guestbook {
 	width:400px;
 	height:425px;
-	/*margin-top:48px;*/
 	margin-left:-14px;
 	margin-bottom:24px;
 	border:none;
@@ -88,25 +83,6 @@ li {
 	padding-bottom:9px;
 	text-align:center;
 }
-@media only screen and (max-width:479px) {
-	#welcome {
-		margin-top:12px;
-	}
-	#social {
-		position:relative;
-		top:-130px;
-	}
-	.iwt {
-		width:276px;
-		margin:-130px auto 30px auto;
-	}
-	#guestbook {
-		margin-left:0;
-	}
-	#dabutts {
-		/*display:none; */
-	}
-}
 #mutuals, #followers, #also {
 	font-size: 1em;
 	font-weight: 600;
@@ -130,7 +106,6 @@ li {
 	margin: 3px;
 	float: left;
 }
-
 .button a:hover img, .iwt a:hover img, #dabutts a:hover img, #slug a:hover img, .div1 a:hover img, .div2 a:hover img, .div3 a:hover img {
 	transform: scale(1.1);
 }
@@ -139,7 +114,6 @@ li {
 	height:17px;
 	border-radius:6px;
 	border:1px solid #440303;
-
 }
 #play-gif img:hover, #stop-gif img:hover {
 	transform: scale(1.1);
@@ -152,7 +126,6 @@ li {
 	position:relative;
 	left:-6px;
 }
-
 a.mastodon-share {
 	display: inline-block;
 	padding: .5em;
@@ -219,17 +192,6 @@ a.mastodon-share:hover, a.mastodon-share:focus {
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	border-radius: 0;
 }
-
-@media only screen and (max-width:479px) {
-	#bfixer {
-		max-width: 92%;
-	}
-	.button {
-		margin: 1px;
-	}
-
-}
-
 .p-spot {
 	margin: 18px auto 12px auto;
 	width: 100%;
@@ -572,14 +534,128 @@ div #reasons img {
 	padding: 2px 40px 6px 40px;
 	clear:both;
 }
+#buttsep {
+	margin-top: 154px;
+}
+#buttonwall {
+	margin: 18px 0 72px 0;
+	padding-left: 36px;
+}
+.footer {
+	margin: 12px 0 12px 0;
+}
+	
+#branding {
+	padding-top: 24px;
+}
+.spfloat {
+	float: none;
+}
+#thanks {
+	margin:0 auto;
+	position:relative;
+	max-width: 326px;
+}
+div #nl {
+	display: none;
+}
+#viewer-container {
+	height: 100vh;
+	margin-top: 0;
+	padding: 0 3px;
+}
+#motion {
+	padding: 0 14px 12px 14px;
+}
+#commento {
+	border: none;
+	padding: 24px 18px 36px 18px;
+}
+#buttons {
+	margin-top: 0;
+}
+#buttonwall .button {
+	margin:1px;
+}
+#button-wall {
+	text-align: center;
+	margin: 36px 20px;
+}
+#hcard-container {
+	/*border: none;*/
+	position:relative;
+	margin:0 30px;
+	left:-8px;
+	/*top: -120px;*/
+	padding-bottom:18px;
+}
+.intersect a img {
+	max-width: 360px;
+}
+.gallery img, .image img {
+	max-width: 64px;
+	margin: 2px 4px 2px 0;
+}
+.gallery2 img, .image2 img {
+	max-width: 300px;
+	margin: 2px 4px 2px 0;
+}
+div>#show-image img {
+	max-width: 390px;
+}
+div>#show-cover img {
+	max-width: 390px;
+}
+#cover {
+	height: 200px;
+}
+#turmoil {
+	max-width: 338px;
+	max-height: 254px;
+}
+#turmoil img {
+	height: 252px;
+	width: 168px;
+}
+#human img {
+	max-width: 60px;
+	max-height: 72px;
+}
+#human-container {
+	padding: 12px;
+}
+}
 @media only screen and (max-width:768px) {
 	#mutuals, #followers, #also {
 		padding: 2px 40px 6px 40px;	
-		}
 	}
+}
 @media only screen and (max-width:479px) {
 	body {
 		font-size: 14px;
+	}
+	#bfixer {
+		max-width: 92%;
+	}
+	.button {
+		margin: 1px;
+	}
+	#welcome {
+		margin-top:12px;
+	}
+	#social {
+		position:relative;
+		top:-130px;
+	}
+	.iwt {
+		width:276px;
+		margin:-130px auto 30px auto;
+	}
+	#guestbook {
+		margin-left:0;
+	}
+	#dabutts {
+		/*display:none; */
 	}
 	#play-gif, #stop-gif {
 		position:relative;
@@ -589,121 +665,16 @@ div #reasons img {
 		margin: 135px 0 0 0;
 	}
 	#mutual-buttons, #follower-buttons, #also-buttons {
-	/*	max-width: 326px;
-	  padding-left: 20px;
-	  padding-right:0;
-	  display-inline;*/
-	  padding: 16px 40px;
-	  }
-	}
-	#buttsep {
-		margin-top: 154px;
-	}
-	#buttonwall {
-		margin: 18px 0 72px 0;
-		padding-left: 36px;
-	}
-	.footer {
-		margin: 12px 0 12px 0;
-	}
-	
-	#branding {
-		padding-top: 24px;
-	}
-	.spfloat {
-		float: none;
-	}
-	#thanks {
-		margin:0 auto;
-		position:relative;
-		max-width: 326px;
-	}
-	div #nl {
-		display: none;
-	}
-	#viewer-container {
-		height: 100vh;
-		margin-top: 0;
-		padding: 0 3px;
-	}
-	#motion {
-		padding: 0 14px 12px 14px;
-	}
-	#commento {
-		border: none;
-		padding: 24px 18px 36px 18px;
-	}
-	#buttons {
-		margin-top: 0;
-	}
-	#buttonwall .button {
-		margin:1px;
-		/*position:relative;
-		float:center;
-		left:22px;*/
-	}
-
-	#button-wall {
-		text-align: center;
-		margin: 36px 20px;
-	}
-	#hcard-container {
-		/*border: none;*/
-		position:relative;
-		margin:0 30px;
-		left:-8px;
-		/*top: -120px;*/
-		padding-bottom:18px;
-	}
-	.intersect a img {
-		max-width: 360px;
-	}
-	.gallery img, .image img {
-		max-width: 64px;
-		margin: 2px 4px 2px 0;
-	}
-	.gallery2 img, .image2 img {
-		max-width: 300px;
-		margin: 2px 4px 2px 0;
-	}
-	div>#show-image img {
-		max-width: 390px;
-	}
-	div>#show-cover img {
-		max-width: 390px;
-	}
-	#cover {
-		height: 200px;
-	}
-	#turmoil {
-		max-width: 338px;
-		max-height: 254px;
-	}
-	#turmoil img {
-		height: 252px;
-		width: 168px;
-	}
-	#human img {
-		max-width: 60px;
-		max-height: 72px;
-	}
-	#human-container {
-		padding: 12px;
+		padding: 16px 40px;
 	}
 }
 @media only screen and (max-width:436px) {
-	#buttonwall {
-		/*margin:18px 10px 72px 10px;
-		padding:8px 4px 8px 16px;*/
-	}
 	#mutual-buttons, #follower-buttons, #also-buttons {
-
-			padding:0 40px;
+		padding:0 40px;
 	}
-		#thanks .button {
+	#thanks .button {
 		position:relative;
 	}
-
 }
 @media only screen and (max-width:400px) {
 	#buttonwall {
@@ -713,11 +684,9 @@ div #reasons img {
 		width:100%;
 	}
 	#mutual-buttons, #follower-buttons, #also-buttons {
-	  /*max-width: 326px;
-	  padding-left: 34px;*/
-	  padding:0 30px;
+		padding:0 30px;
 	}
-		#thanks .button {
+	#thanks .button {
 		position:relative;
 	}
 }
