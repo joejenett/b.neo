@@ -620,6 +620,28 @@ div>#show-cover img {
 		padding: 2px 40px 6px 40px;	
 	}
 }
+@media only screen and (max-width:600px) {
+	#mutuals, #followers, #also {
+		padding: 2px 40px 6px 40px;	
+	}
+	#mutual-buttons, #follower-buttons, #also-buttons {
+		padding: 16px 30px;
+	}
+	#buttonwall, #buttsep {
+		padding:0 34px;
+	}
+}
+@media only screen and (max-width:540px) {
+	#mutuals, #followers, #also {
+		padding: 2px 40px 6px 40px;	
+	}
+	#mutual-buttons, #follower-buttons, #also-buttons {
+		padding: 16px 50px;
+	}
+	#buttonwall, #buttsep {
+		padding:0 48px;
+	}
+}
 @media only screen and (max-width:479px) {
 	body {
 		font-size: 14px;
