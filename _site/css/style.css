@@ -221,7 +221,7 @@ h3 {
 	border: 1px solid #a28181;
 	border-radius: 10px;
 	margin: 18px 40px 72px 40px;
-	padding: 34px;
+	padding: 34px 42px;
 }
 #button-wall {
 	text-align: center;
@@ -527,7 +527,6 @@ div #reasons img {
 }
 #buttonwall {
 	margin: 18px 0 72px 0;
-	padding-left: 36px;
 }
 .footer {
 	margin: 12px 0 12px 0;
@@ -627,8 +626,8 @@ div>#show-cover img {
 	#mutual-buttons, #follower-buttons, #also-buttons {
 		padding: 16px 30px;
 	}
-	#buttonwall, #buttsep {
-		padding:0 34px;
+	#buttonwall {
+		padding:34px 39px;
 	}
 }
 @media only screen and (max-width:540px) {
@@ -638,8 +637,8 @@ div>#show-cover img {
 	#mutual-buttons, #follower-buttons, #also-buttons {
 		padding: 16px 50px;
 	}
-	#buttonwall, #buttsep {
-		padding:0 48px;
+	#buttonwall {
+		padding:34px 52px;
 	}
 }
 @media only screen and (max-width:479px) {
@@ -683,13 +682,16 @@ div>#show-cover img {
 		padding: 14px 40px 14px 40px;	
 	}
 	#links-mutuals {
-	padding: 14px 40px 14px 40px;
-}
+		padding: 14px 40px 14px 40px;
+	}
 	#mutual-buttons, #follower-buttons, #also-buttons {
 		padding: 16px 40px;
 	}
+	#buttonwall {
+		padding: 34px 42px;
+	}
 }
-@media only screen and (max-width:436px) {
+@media only screen and (max-width:428px) {
 	#mutual-buttons, #follower-buttons, #also-buttons {
 		padding:0 40px;
 	}
@@ -699,12 +701,12 @@ div>#show-cover img {
 }
 @media only screen and (max-width:414px) {
 	#buttonwall {
-		padding: 34px 30px;
+		padding: 34px 36px;
 	}
 }
 @media only screen and (max-width:400px) {
 	#buttonwall {
-		padding: 34px 20px;
+		padding: 34px 24px;
 	}
 	#thanks-wrapper {
 		width:100%;
