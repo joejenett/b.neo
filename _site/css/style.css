@@ -1,5 +1,5 @@
 body {
-	max-width: 700px;
+	max-width: 740px;
 	margin: auto;
 	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 	font-size: 16px;
@@ -235,7 +235,7 @@ h3 {
 	border: 1px solid #a28181;
 	border-radius: 10px;
 	margin: 18px 40px 72px 40px;
-	padding: 34px 42px;
+	padding: 34px 62px;
 }
 #button-wall {
 	text-align: center;
@@ -280,7 +280,7 @@ p {
 	display: flex;
 	flex-direction: column;
 	height: 92vh;
-	max-width: 700px;
+	max-width: 740px;
 	margin-top: 28px;
 	background: #fff9e6;
 	padding: 0 25px;
@@ -290,7 +290,7 @@ p {
 	display: flex;
 	flex-direction: column;
 	height: 90vh;
-	max-width: 700px;
+	max-width: 740px;
 	margin-top: 24px;
 	background: #fff9e6;
 	padding: 0 25px;
@@ -520,7 +520,9 @@ div #reasons img {
 	height: 24px;
 	border-top: 3px double #29221c;
 }
-
+#homewall {
+	padding:0 20px;
+}
 #mutuals, #followers, #also {
 	font-size: 1em;
 	font-weight: 600;
@@ -547,7 +549,7 @@ div #reasons img {
 }
 	
 #branding {
-	padding-top: 24px;
+	/*padding-top: 24px;*/
 }
 .spfloat {
 	float: none;
@@ -635,7 +637,7 @@ div>#show-cover img {
 }
 @media only screen and (max-width:600px) {
 	#mutuals, #followers, #also {
-		padding: 2px 40px 6px 40px;	
+		padding: 24px 40px 6px 40px;	
 	}
 	#mutual-buttons, #follower-buttons, #also-buttons {
 		padding: 16px 30px;
@@ -643,10 +645,13 @@ div>#show-cover img {
 	#buttonwall {
 		padding:34px 39px;
 	}
+	#homewall {
+		padding:0 0 0 7px;
+	}
 }
 @media only screen and (max-width:540px) {
 	#mutuals, #followers, #also {
-		padding: 2px 40px 6px 40px;	
+		/*padding: 2px 40px 6px 40px;*/	
 	}
 	#mutual-buttons, #follower-buttons, #also-buttons {
 		padding: 16px 50px;
@@ -657,6 +662,9 @@ div>#show-cover img {
 	#rating {
 		width:54px;
 		margin:96px 30px 0 -144px;
+	}
+	#homewall {
+		padding:0;
 	}
 }
 @media only screen and (max-width:479px) {
@@ -712,6 +720,9 @@ div>#show-cover img {
 		width:48px;
 		margin:96px 24px 0 -144px;
 	}
+		#homewall {
+		padding:0 0 0 12px;
+	}
 }
 @media only screen and (max-width:430px) {
 	#rating {
@@ -738,6 +749,9 @@ div>#show-cover img {
 	#rating {
 		width:32px;
 		margin:96px 6px 0 -144px;
+	}
+	#homewall {
+		padding:0;
 	}
 }
 @media only screen and (max-width:400px) {
