@@ -1,6 +1,15 @@
 [
     
       {
+      "title"    : "/what-is-this-part-2/",
+      "content"  : "\nThis should shed some light on what I’m up to here...\n\n\n\n\tHow to surf the web!\n\t\n\t\n\tTo surf the web revival, you start on one site, you find links and you follow the trail; be brave, explore, keep going, keep going!\t\n\t\n\t\n\t\t// \n\t\t\n\t\t\tIntro to the Web Revival #1: What is the Web Revival?\n\t\t\n\t\n\n\n(cross-posted to mastodon)\n",
+      "category" : "site",
+      "tags"     : "",
+      "url"      : "http://localhost:4000/what-is-this-part-2/",
+      "date"     : "Feb 11, 2025"
+    } ,
+  
+      {
       "title"    : "/animated-buttons-when-paused/",
       "content"  : "\n\tYou’ve probably noticed animations are turned off by default on this site. I use freezeframe.js to allow site visitors to turn animations on or off and decided to leave that choice up to each visitor.\n\n\n\tWhen animations are turned off, only the first frame of an animated .gif file appears. If the name of the site is not present on that first frame, the button appears to be blank (unless hovered). While that may be an intentional design choice on the part of the button’s creator, I’m mentioning it only to be helpful to button creators who may not be aware of how freezeframe and similar solutions render buttons when animations are turned off.\n\n\n\tThe simple way to see a button’s animation when animations are turned off is to hover your mouse over the button.\n\n\n\t-joe jenett\n\n\n(cross-posted to mastodon)\n",
       "category" : "devtips",
