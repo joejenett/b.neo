@@ -130,10 +130,22 @@
 		<p>
 	I love button walls but now and then, when saving a site’s button, I find it’s 88x33 instead of 88x31 and using only the <em>width</em> and <em>height</em> attributes ends up breaking my layout. It seems that browsers follow the height attribute and reduce the width accordingly. I came up with a solution that worked for me (adding a little <em>style</em>) - it may not be the ’best practice’ but I decided to share just in case others find it useful: 
 </p>
-
 <p>
 	<code>&lt;img src="/images/<small>IMAGENAME.EXTENSION</small>" alt="<small>ALT TEXT</small>" width="88" height="31" style="min-width:88px;max-height:31px;"&gt;</code>
 </p>
+<p>
+Update 02/13/25: Thanks to <a href="https://discourse.32bit.cafe/u/starbreaker/summary">Matthew</a> for reminding that using a class name instead of inline styles is probably a better way. In fact, I did that today thanks to his feedback.
+</p>
+<p>
+I added <code>class="button-fix"</code> to each of the <code>img</code> tags in question and the following to my stylesheet:
+</p>
+<p><code>
+.button-fix {<br />
+ &nbsp; min-width:88px;<br />
+ &nbsp; max-height:31px;<br />
+}
+</code></p>
+<p>It is a better way!</p>
 
 <p><a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a></p>
 
