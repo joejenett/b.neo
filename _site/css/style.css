@@ -106,7 +106,7 @@ li {
 }
 #mutual-buttons, #follower-buttons, #also-buttons {
 	max-width:578px;
-	padding:16px 30px 16px 40px;
+	padding:16px 30px;
 }
 .button {
 	max-width: 88px;
