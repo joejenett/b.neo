@@ -645,7 +645,7 @@ div>#show-cover img {
 		padding: 24px 40px 6px 40px;	
 	}
 	#mutual-buttons, #follower-buttons, #also-buttons {
-		padding: 16px 30px;
+		padding: 16px 24px;
 	}
 	#buttonwall {
 		padding:34px 39px;
@@ -659,7 +659,7 @@ div>#show-cover img {
 		/*padding: 2px 40px 6px 40px;*/	
 	}
 	#mutual-buttons, #follower-buttons, #also-buttons {
-		padding: 16px 50px;
+		padding: 16px 46px;
 	}
 	#buttonwall {
 		padding:34px 52px;
@@ -716,7 +716,7 @@ div>#show-cover img {
 		padding: 14px 40px 14px 40px;
 	}
 	#mutual-buttons, #follower-buttons, #also-buttons {
-		padding: 16px 40px;
+		padding: 16px 30px;
 	}
 	#buttonwall {
 		padding: 34px 42px;
@@ -734,10 +734,13 @@ div>#show-cover img {
 		width:42px;
 		margin:96px 18px 0 -144px;
 	}
+		#mutual-buttons, #follower-buttons, #also-buttons {
+		padding: 16px 34px;
+	}
 }
 @media only screen and (max-width:428px) {
 	#mutual-buttons, #follower-buttons, #also-buttons {
-		padding:0 40px;
+		padding:0 30px;
 	}
 	#thanks .button {
 		position:relative;
@@ -758,6 +761,10 @@ div>#show-cover img {
 	#homewall {
 		padding:0;
 	}
+	#mutual-buttons, #follower-buttons, #also-buttons {
+		padding:0 38px;
+	}
+
 }
 @media only screen and (max-width:400px) {
 	#buttonwall {
@@ -767,7 +774,7 @@ div>#show-cover img {
 		width:100%;
 	}
 	#mutual-buttons, #follower-buttons, #also-buttons {
-		padding:0 30px;
+		padding:0 26px;
 	}
 	#thanks .button {
 		position:relative;
