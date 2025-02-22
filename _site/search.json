@@ -1,6 +1,15 @@
 [
     
       {
+      "title"    : "/02-22-25/",
+      "content"  : "cookie cutter minds\nbusiness opportunities\nfortunate failures\n\n#haiku\n\n(cross-posted to mastodon)\n",
+      "category" : "words",
+      "tags"     : "",
+      "url"      : "http://localhost:4000/02-22-25/",
+      "date"     : "Feb 22, 2025"
+    } ,
+  
+      {
       "title"    : "/what-is-this-part-2/",
       "content"  : "\nThis should shed some light on what I’m up to here...\n\n\n\n\tHow to surf the web!\n\t\n\t\n\tTo surf the web revival, you start on one site, you find links and you follow the trail; be brave, explore, keep going, keep going!\t\n\t\n\t\n\t\t// \n\t\t\n\t\t\tIntro to the Web Revival #1: What is the Web Revival?\n\t\t\n\t\n\n\n(cross-posted to mastodon)\n",
       "category" : "site",
