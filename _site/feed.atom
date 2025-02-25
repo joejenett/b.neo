@@ -3,13 +3,26 @@
   <title type="text" xml:lang="en">bulltown.neo</title>
   <link type="application/atom+xml" href="https://bulltown.neocities.org/feed.atom" rel="self"/>
   <link type="text/html" href="https://bulltown.neocities.org/" rel="alternate"/>
-  <updated>2025-02-24T10:38:02-05:00</updated>
+  <updated>2025-02-25T06:57:53-05:00</updated>
   <id>https://bulltown.neocities.org/full_content_feed</id>
   <author>
     <name>joe jenett</name>
   </author>
   <rights>2000-2023 © joe jenett. Some rights reserved.</rights>
 
+  
+  <entry>
+    <title>Resident Chump Renames the Gulf of Mexico</title>
+    <link href="https://bulltown.neocities.org/resident-chump-renames-the-gulf-of-mexico/"/>
+    <updated>2025-02-25T05:40:01-05:00</updated>
+    <id>https://bulltown.neocities.org/resident-chump-renames-the-gulf-of-mexico/</id>
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/shitshow.png&quot; width=&quot;600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;!--
+&lt;a style=&quot;display:none;&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;small&gt;(cross-posted to mastodon)&lt;/small&gt;&lt;/a&gt;
+--&gt;
+</content>
+  </entry>
   
   <entry>
     <title>02-22-25</title>
@@ -48,28 +61,6 @@ This should shed some light on what I’m up to here...
 		&lt;/cite&gt;
 	&lt;/footer&gt;
 &lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a style=&quot;display:none;&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;small&gt;(cross-posted to mastodon)&lt;/small&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>animated buttons when paused</title>
-    <link href="https://bulltown.neocities.org/animated-buttons-when-paused/"/>
-    <updated>2025-02-05T08:20:35-05:00</updated>
-    <id>https://bulltown.neocities.org/animated-buttons-when-paused/</id>
-    <content type="html">&lt;p&gt;
-	You’ve probably noticed animations are turned off by default on this site. I use &lt;a href=&quot;https://github.com/ctrl-freaks/freezeframe.js/&quot;&gt;freezeframe.js&lt;/a&gt; to allow site visitors to turn animations on or off and decided to leave that choice up to each visitor.
-&lt;/p&gt;
-&lt;p&gt;
-	When animations are turned off, only the first frame of an animated .gif file appears. If the name of the site is not present on that first frame, the button appears to be blank (unless hovered). While that may be an intentional design choice on the part of the button’s creator, I’m mentioning it only to be helpful to button creators who may not be aware of how freezeframe and similar solutions render buttons when animations are turned off.
-&lt;/p&gt;
-&lt;p&gt;
-	The simple way to see a button’s animation when animations are turned off is to hover your mouse over the button.
-&lt;/p&gt;
-&lt;p&gt;
-	-joe jenett
-&lt;/p&gt;
 
 &lt;p&gt;&lt;a style=&quot;display:none;&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;small&gt;(cross-posted to mastodon)&lt;/small&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
