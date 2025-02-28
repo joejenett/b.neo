@@ -3,7 +3,7 @@
   <title type="text" xml:lang="en">bulltown.neo</title>
   <link type="application/atom+xml" href="https://bulltown.neocities.org/feed.atom" rel="self"/>
   <link type="text/html" href="https://bulltown.neocities.org/" rel="alternate"/>
-  <updated>2025-02-27T06:42:17-05:00</updated>
+  <updated>2025-02-28T16:49:23-05:00</updated>
   <id>https://bulltown.neocities.org/full_content_feed</id>
   <author>
     <name>joe jenett</name>
@@ -16,7 +16,7 @@
     <link href="https://bulltown.neocities.org/resident-chump-renames-the-gulf-of-mexico/"/>
     <updated>2025-02-25T05:40:01-05:00</updated>
     <id>https://bulltown.neocities.org/resident-chump-renames-the-gulf-of-mexico/</id>
-    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/shitshow.png&quot; width=&quot;600&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/shitshow.png&quot; width=&quot;600&quot; alt=&quot;&quot; style=&quot;max-width:100%;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Inspired by &lt;a href=&quot;https://daily.ds106.us/tdc4790/&quot;&gt;The DS106 Daily Create&lt;/a&gt;&lt;/p&gt;
 

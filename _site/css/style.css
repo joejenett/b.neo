@@ -634,15 +634,21 @@ div>#show-cover img {
 #human-container {
 	padding: 12px;
 }
-}
+
 @media only screen and (max-width:768px) {
 	#mutuals, #followers, #also {
 		padding: 2px 40px 6px 40px;	
+	}
+	.hideit {
+		display:none;
 	}
 }
 @media only screen and (max-width:600px) {
 	#mutuals, #followers, #also {
 		padding: 24px 40px 6px 40px;	
+	}
+	img#respect {
+		display:none;
 	}
 	#mutual-buttons, #follower-buttons, #also-buttons {
 		padding: 16px 24px;
@@ -670,6 +676,9 @@ div>#show-cover img {
 	}
 	#homewall {
 		padding:0;
+	}
+	.hideit, .announce {
+		display:none;
 	}
 }
 @media only screen and (max-width:479px) {
