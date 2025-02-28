@@ -647,9 +647,6 @@ div>#show-cover img {
 	#mutuals, #followers, #also {
 		padding: 24px 40px 6px 40px;	
 	}
-	img#respect {
-		display:none;
-	}
 	#mutual-buttons, #follower-buttons, #also-buttons {
 		padding: 16px 24px;
 	}
@@ -680,10 +677,16 @@ div>#show-cover img {
 	.hideit, .announce {
 		display:none;
 	}
+		img#respect {
+		display:none;
+	}
 }
 @media only screen and (max-width:479px) {
 	body {
 		font-size: 14px;
+	}
+	.announce {
+		display:block;
 	}
 	#hcard-container {
 		margin:0 40px;
