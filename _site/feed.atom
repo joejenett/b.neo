@@ -3,13 +3,35 @@
   <title type="text" xml:lang="en">bulltown.neo</title>
   <link type="application/atom+xml" href="https://bulltown.neocities.org/feed.atom" rel="self"/>
   <link type="text/html" href="https://bulltown.neocities.org/" rel="alternate"/>
-  <updated>2025-03-02T05:45:05-05:00</updated>
+  <updated>2025-03-05T12:42:15-05:00</updated>
   <id>https://bulltown.neocities.org/full_content_feed</id>
   <author>
     <name>joe jenett</name>
   </author>
   <rights>2000-2023 © joe jenett. Some rights reserved.</rights>
 
+  
+  <entry>
+    <title>sites.i.like 03-05-25</title>
+    <link href="https://bulltown.neocities.org/sites-i-like-03-05-25/"/>
+    <updated>2025-03-05T09:57:35-05:00</updated>
+    <id>https://bulltown.neocities.org/sites-i-like-03-05-25/</id>
+    <content type="html">&lt;p&gt;
+	a few more of my faves for ya
+&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a title=&quot;Divergent Rays&quot; href=&quot;https://divergentrays.com/&quot;&gt;Divergent Rays&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;SwiftRed&quot; href=&quot;https://swiftred.neocities.org/&quot;&gt;SwiftRed&apos;s Site&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;Oopsie Doodle&quot; href=&quot;https://oopsiedoodle.com/&quot;&gt;Oopsie Doodle&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;A TikTok-style interface for exploring random Wikipedia articles.&quot; href=&quot;https://wikitok.vercel.app/&quot;&gt;WikiTok&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;cervidaze&quot; href=&quot;https://cervidaze.me/&quot;&gt;cervidaze ☘&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;Jay&quot; href=&quot;https://lockheartlove.neocities.org/&quot;&gt;Lockheart Love&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;⦗ℍ𝕪𝕡𝕖𝕣𝔱𝔢𝔵𝔱: h0p3⦘&quot; href=&quot;https://h0p3.neocities.org/&quot;&gt;⦗ℍ𝕪𝕡𝕖𝕣𝔱𝔢𝔵𝔱: h0p3⦘&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a style=&quot;display:none;&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;small&gt;(cross-posted to mastodon)&lt;/small&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Resident Chump Renames the Gulf of Mexico</title>
@@ -36,33 +58,6 @@ business opportunities&lt;br /&gt;
 fortunate failures&lt;/p&gt;
 
 &lt;p&gt;#haiku&lt;/p&gt;
-
-&lt;p&gt;&lt;a style=&quot;display:none;&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;small&gt;(cross-posted to mastodon)&lt;/small&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>What is this? (part 2)</title>
-    <link href="https://bulltown.neocities.org/what-is-this-part-2/"/>
-    <updated>2025-02-11T09:10:36-05:00</updated>
-    <id>https://bulltown.neocities.org/what-is-this-part-2/</id>
-    <content type="html">&lt;p&gt;
-This should shed some light on what I’m up to here...
-&lt;/p&gt;
-&lt;blockquote class=&quot;quoteback&quot; data-title=&quot;Intro to the Web Revival #1: What is the Web Revival?&quot; data-author=&quot;//Melon&quot; data-avatar=&quot;https://melonking.net/images/home.png&quot; cite=&quot;https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival&quot;&gt;
-&lt;p style=&quot;font-weight:600;font-size:1.1em;&quot;&gt;
-	How to surf the web!
-	&lt;/p&gt;
-	&lt;p&gt;
-	To surf the web revival, you start on one site, you find links and you follow the trail; be brave, explore, keep going, keep going!	
-	&lt;/p&gt;
-	&lt;footer&gt;
-		// 
-		&lt;cite&gt;
-			&lt;a href=&quot;https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival&quot;&gt;Intro to the Web Revival #1: What is the Web Revival?&lt;/a&gt;
-		&lt;/cite&gt;
-	&lt;/footer&gt;
-&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;a style=&quot;display:none;&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;small&gt;(cross-posted to mastodon)&lt;/small&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
