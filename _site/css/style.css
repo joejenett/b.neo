@@ -672,9 +672,9 @@ div>#show-cover img {
 	#homewall {
 		padding:0 0 0 7px;
 	}
-	img#respect {
+	/*img#respect {
 		display:none;
-	}
+	}*/
 }
 @media only screen and (max-width:540px) {
 	#mutuals, #followers, #also {
@@ -696,9 +696,9 @@ div>#show-cover img {
 	.hideit, .announce {
 		display:none;
 	}
-	img#respect {
+	/*img#respect {
 		display:none;
-	}
+	}*/
 }
 @media only screen and (max-width:479px) {
 	body {
