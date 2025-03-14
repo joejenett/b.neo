@@ -8,6 +8,29 @@ body {
 	background-color: #0f0604;
 	color:#300202;
 }
+#homewall {
+	display: flex;
+	flex-direction:column;
+	background-color: #fdf9ec;
+	background-image: url('/images/wall.png');
+	font-size: .9em;
+	text-align: center;
+	border: 1px solid #a28181;
+	border-radius: 10px;
+	padding:40px 50px;
+}
+#mutual-buttons, #follower-buttons, #also-buttons {
+	max-width:578px;
+	padding:16px 0;
+}
+#mutuals, #followers, #also {
+	font-size: 1em;
+	font-weight: 600;
+	font-style: italic;
+	text-align: center;
+	/*padding: 16px 40px 0 40px;*/
+	clear:both;
+}
 .button-fix {
   	min-width:88px;
   	max-height:31px;
@@ -103,10 +126,6 @@ li {
 }
 #followers {
 	padding-top:24px;
-}
-#mutual-buttons, #follower-buttons, #also-buttons {
-	max-width:578px;
-	padding:16px 30px;
 }
 .button {
 	max-width: 88px;
@@ -541,25 +560,6 @@ div #reasons img {
 	height: 24px;
 	border-top: 3px double #29221c;
 }
-#homewall {
-	display: flex;
-	flex-direction:column;
-	background-color: #fdf9ec;
-	background-image: url('/images/wall.png');
-	font-size: .9em;
-	text-align: center;
-	border: 1px solid #a28181;
-	border-radius: 10px;
-	padding:40px 20px;
-}
-#mutuals, #followers, #also {
-	font-size: 1em;
-	font-weight: 600;
-	font-style: italic;
-	text-align: center;
-	/*padding: 16px 40px 0 40px;*/
-	clear:both;
-}
 #links-mutuals {
 	font-size: 1em;
 	font-weight: 600;
@@ -680,16 +680,13 @@ div>#show-cover img {
 	#homewall {
 		padding:40px 0 40px 7px;
 	}
-	/*img#respect {
-		display:none;
-	}*/
 }
 @media only screen and (max-width:540px) {
 	#mutuals, #followers, #also {
 		/*padding: 2px 40px 6px 40px;*/	
 	}
 	#mutual-buttons, #follower-buttons, #also-buttons {
-		padding: 16px 46px;
+		padding: 16px 0;
 	}
 	#buttonwall {
 		padding:34px 52px;
@@ -699,14 +696,11 @@ div>#show-cover img {
 		margin:96px 30px 0 -144px;
 	}
 	#homewall {
-		padding:40px 0;
+		padding:40px 46px;
 	}
 	.hideit, .announce {
 		display:none;
 	}
-	/*img#respect {
-		display:none;
-	}*/
 }
 @media only screen and (max-width:479px) {
 	body {
@@ -764,7 +758,7 @@ div>#show-cover img {
 		width:48px;
 		margin:96px 24px 0 -144px;
 	}
-		#homewall {
+	#homewall {
 		padding:40px 0 40px 12px;
 	}
 }
@@ -804,10 +798,10 @@ div>#show-cover img {
 		margin:96px 6px 0 -144px;
 	}
 	#homewall {
-		padding:40px 0;
+		padding:40px 36px;
 	}
 	#mutual-buttons, #follower-buttons, #also-buttons {
-		padding:14px 36px;
+		padding:14px 0;
 	}
 				#also {
 		padding-top:20px;
