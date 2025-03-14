@@ -814,6 +814,9 @@ div>#show-cover img {
 	}
 }
 @media only screen and (max-width:400px) {
+	#page {
+		overflow: hidden scroll;
+	}
 	#buttonwall {
 		padding: 34px 24px;
 	}
