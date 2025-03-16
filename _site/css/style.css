@@ -39,11 +39,11 @@ body {
 	margin: auto;
 } 
 #rating {
-	position:relative;
+	/*position:relative;
 	float:right;
 	border:none;
 	width:70px;
-	margin:96px 36px 0 -144px;
+	margin:96px 36px 0 -144px;*/
 }
 #rating a img {
 	border:none;
