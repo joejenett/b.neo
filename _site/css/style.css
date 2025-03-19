@@ -677,8 +677,8 @@ div>#show-cover img {
 		padding:34px 52px;
 	}
 	#rating {
-		width:54px;
-		margin:96px 30px 0 -144px;
+		/*width:54px;
+		margin:96px 30px 0 -144px;*/
 	}
 	#homewall {
 		padding:40px 46px;
@@ -740,8 +740,8 @@ div>#show-cover img {
 		padding: 34px 42px;
 	}
 	#rating {
-		width:48px;
-		margin:96px 24px 0 -144px;
+		/*width:48px;
+		margin:96px 24px 0 -144px;*/
 	}
 	#homewall {
 		padding:40px 0 40px 12px;
@@ -749,8 +749,8 @@ div>#show-cover img {
 }
 @media only screen and (max-width:430px) {
 	#rating {
-		width:42px;
-		margin:96px 18px 0 -144px;
+		/*width:42px;
+		margin:96px 18px 0 -144px;*/
 	}
 	#mutual-buttons, #follower-buttons, #also-buttons {
 		padding: 16px 34px;
@@ -767,8 +767,8 @@ div>#show-cover img {
 		position:relative;
 	}
 	#rating {
-		width:36px;
-		margin:96px 12px 0 -144px;
+		/*width:36px;
+		margin:96px 12px 0 -144px;*/
 	}
 	#also {
 		padding-top:20px;
@@ -779,8 +779,8 @@ div>#show-cover img {
 		padding: 34px 36px;
 	}
 	#rating {
-		width:32px;
-		margin:96px 6px 0 -144px;
+		/*width:32px;
+		margin:96px 6px 0 -144px;*/
 	}
 	#homewall {
 		padding:40px 36px;
@@ -809,8 +809,8 @@ div>#show-cover img {
 		position:relative;
 	}
 	#rating {
-		width:30px;
-		margin:96px 6px 0 -144px;
+		/*width:30px;
+		margin:96px 6px 0 -144px;*/
 	}
 	#also {
 		padding-top:20px;
