@@ -8,6 +8,33 @@ body {
 	background-color: #0f0604;
 	color:#300202;
 }
+#cloudwrap {
+	justify-content:center;
+	min-width:100%;
+	display:flex;
+	flex-direction:row;
+}
+#clouds {
+	width:496px;
+	height:256px;
+}
+#clouds img {
+	float:left;
+	margin:4px;
+	width:240px;
+}
+@media only screen and (max-width:540px) {
+	#clouds {
+	width:296px;
+	height:56px;		
+	}
+	#clouds img {
+		width:140px;
+	}
+	#cloudwrap {
+		min-height:170px;
+	}
+}
 #homewall {
 	display: flex;
 	flex-direction:column;
