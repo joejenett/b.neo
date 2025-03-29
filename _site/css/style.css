@@ -792,6 +792,9 @@ div>#show-cover img {
 	#mutual-buttons, #follower-buttons, #also-buttons {
 		padding:14px 30px;
 	}
+	.iwtbanner {
+	width:300px;
+}
 	#thanks .button {
 		position:relative;
 	}
