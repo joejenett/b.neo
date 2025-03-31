@@ -5,14 +5,13 @@
 <link href="/css/style.css" type="text/css" rel="stylesheet">
 <script src="/js/jquery-1.8.3.min.js"></script>
 <script src="/js/jquery.detect_swipe.js"></script>
-<script src="/js/screensaver.js" timeout="90000" message="bulltown"></script>
+<script src="/js/screensaver.js" timeout="90000" message="𝗯.𝗻𝗲𝗼"></script>
+<script src="/js/quoteback.js"></script>
 <link rel="icon" href="/images/favicon-32.png" sizes="32x32">
 <link rel="icon" href="/images/favicon-192.png" sizes="192x192">
 <link rel="apple-touch-icon" href="/images/favicon-180.png">
-<!--
-<link rel="webmention" href="https://webmention.io/bulltown.joejenett.com/webmention" />
-<link rel="pingback" href="https://webmention.io?forward=https://bulltown.joejenett.com/webmention">
--->
+
+<link rel="webmention" href="https://webmention.io/bulltown.neocities.org/webmention" />
 
 <link rel="authorization_endpoint" href="https://indieauth.com/auth">
 <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
@@ -24,6 +23,7 @@
 <link href="/feed.atom" rel="alternate" title="bulltown" type="application/atom+xml">
 
 <link rel="me" href="https://bulltown.joejenett.com">
+<link rel="me" href="https://bulltown.neocities.org">
 <link rel="me" href="https://joejenett.com">
 <link rel="me" href="https://simply.joejenett.com">
 <link rel="me" href="https://the.dailywebthing.com">
@@ -39,16 +39,15 @@
 <link rel="me" href="https://directory.joejenett.com/">
 <link rel="me" href="https://micro.blog/joejenett">
 <link rel="me" href="https://toot.community/@jenett">
-<link rel="me" href="https://mastodon.online/@jenett">
 
 <link rel="me" href="mailto:joe.jenett@jenett.org">
 
-<meta name="description" content="a new take on content from the bulltown archives, circa 1998-2004">
-<link rel="canonical" href="http://localhost:4000">
+<meta name="description" content="the neocities’ offspring of bulltown - a new take on content from the bulltown archives, circa 1998-2004">
+<link rel="canonical" href="https://bulltown.neocities.org">
 <meta property='og:site_name' content='bulltown.neo'>
-<meta property="og:url" content="http://localhost:4000/words/">
+<meta property="og:url" content="https://bulltown.neocities.org/site/">
 <meta property="og:locale" content="en_US">
-<meta property="og:description" content="a new take on content from the bulltown archives, circa 1998-2004">
+<meta property="og:description" content="the neocities’ offspring of bulltown - a new take on content from the bulltown archives, circa 1998-2004">
 <meta property="og:title" content="">
 <meta property='og:type' content='website'>
 <meta property='og:image' content='https://bulltown.neocities.org/b-neo.png'>
@@ -59,10 +58,17 @@
 <meta name='twitter:site' content='@joejenett'>
 <meta name="twitter:title" content="">
 <meta name='twitter:image' content='https://bulltown.neocities.org/b-neo.png'>
-<meta name="twitter:description" content="a new take on content from the bulltown archives, circa 1998-2004">
+<meta name="twitter:description" content="the neocities’ offspring of bulltown - a new take on content from the bulltown archives, circa 1998-2004">
 
-
-<title>𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝗻𝗲𝗼</title>
+<style>
+#sidecar .webring-links {
+	color: #300202;
+}
+#sidecar a, #sidecar a.webring-links {
+	color:#386f7f;
+}
+</style>
+<title>𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝗻𝗲𝗼 | 404</title>
 </head>
 <body>
     <div id="container">
@@ -72,24 +78,29 @@
 	<script src="https://webneko.net/n20171213.js"></script><a 
 	href="https://bulltown.neocities.org/">home</a>
 </div>
-			<div id="slug">
-			<a href="https://bulltown.neocities.org/"><img src="/images/n-slug.png" title="bulltown.neo" alt="" width="46"></a>
-			</div>
-					<h1><a style="color: #440303;font-weight:800;font-size:1.6rem;" href="/" title="home">bulltown<span style="color:#8b9675;">.neo</span></a></h1> 
+			<div id="slug" style="margin-left:40px;">
+		<a href="/"><img src="/images/neo-slug.png" title="b.neo home" alt="b.neo home" width="36" style="position:relative;left:3px;"></a><br>
+		<a href="https://bulltown.joejenett.com/"><img src="/images/b22-48.png" title="b22 home" alt="b22 home" width="48"></a>
+</div>
 
-    <div id="header" style="margin-top:0;">
+ <h1><a style="color: #440303;font-weight:800;font-size:1.3em;" href="/" title="home">bulltown<span style="color:#355935;">.neo</span></a> </h1>
+	<div id="header" style="margin-top:0;">
 		<a href="/">home</a>
 		<a href="/archive/">blog archive</a>
 		<a href="/site/">site</a>
 		<a href="/music/">music</a>
 		<a href="/words/">words</a>
 		<a href="/images/">images</a>
+		<a href="/i.like/">i.like</a>
+		<a href="/devtips/">devtips</a>
+		<a href="/giggles/">giggles</a>
 		<a href="/links/">links</a>
-		<a href="https://neocities.org/site/bulltown">profile</a>
+		<a href="/#rings">webrings</a>
+		<a href="https://neocities.org/site/bulltown">@neocities</a>
 		<a href="https://joejenett.com/">about</a>
 		<a href="https://joejenett.com/contact/">contact</a>
 	</div>
-    	</div>
+</div>
     <div id="page">
     <div id="content">  
     <h1>Page Not Found</h1>
@@ -99,7 +110,17 @@
     <div id="footer"></div>
 
     </div>
-    </div> <!-- end of div id="container" -->
-
+    
+<div class="footer">
+	<p style="margin-top:160px;">
+		<a href="https://iwebthings.joejenett.com/"><img class="iwtbanner" src="/images/iwt-320x50.png" alt=""></a>
+	</p>
+	<p style="margin-left:-12px;font-size:.75rem;text-align:center;border-top:1px solid #ddd;margin-top:36px;padding-top:8px;">
+		<big>𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝗻𝗲𝗼</big> <br><!--Designed &amp; developed --><span style="font-style:italic;">by <a href="https://iwebthings.joejenett.com/">joe jenett</a></span>.
+	</p>
+	<p style="font-size:.75rem;text-align:center;margin-left:-12px;">Powered by <a href="https://jekyllrb.com/">Jekyll</a>, <a href="https://github.com/">GitHub</a>, and <a href="https://neocities.org/">Neocities</a>.<br> &copy; 1997-2025. Some rights reserved.<br>Content: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY NC SA 4.0 License</a>.<br>For a somewhat mature audience.<br><a href="https://iwebthings.joejenett.com/privacy_policy/">Privacy Policy</a>
+	</p>
+</div>
+	 </div> <!-- end of div id="container" -->
   </body>
 </html>
