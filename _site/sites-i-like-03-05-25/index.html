@@ -171,6 +171,7 @@
 		
 	</div>
 </div>
+<!--
 	<script>
 		$().ready(function(){
 			$.getJSON( "https://webmention.io/api/mentions?token=Bbeh8Vrr0wzBQUsaAa6byw",
@@ -193,6 +194,31 @@
 		});
 	</script>
 	<div id="result"></div>
+-->
+
+<script>
+	$().ready(function(){
+		$.getJSON( "https://webmention.io/api/links?target=http://localhost:4000/sites-i-like-03-05-25/",
+		function( mydata ) {
+			console.log(mydata);
+			var output = '';
+			$.each(mydata.links, function(i, v) {
+				if (v.target.search(new RegExp(/sites-i-like-03-05-25/i)) != -1) {
+						output = '<div style="margin:18px 0 9px 0;font-size:1rem;font-weight:600;">Reactions: </div>';
+			}
+			});
+        		$.each(mydata.links, function(i, v) {
+        		if (v.target.search(new RegExp(/sites-i-like-03-05-25/i)) != -1) {
+               		output += '<p><a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="webmention source" width="48" /><br>' + v.data.author.name + '</a></p> ';
+               	}
+    	});
+    		output += ' ';
+    		$('#result0').html(output);
+		});	
+	});
+</script>
+<div id="result0" style="margin-bottom:48px;"></div>
+
 	<div id="resultsp" style="margin-top:24px;">
 		<p><a href="https://toot.community/@jenett/114111092341959942#favorited-by-109326597713827183"><img src="https://static.toot.community/cache/accounts/avatars/112/757/571/850/957/359/original/71a15e19bfc75e90.png" alt="" width="48"><br><span style="font-size:.9rem;">Pamela</span></a></p>
 	</div>

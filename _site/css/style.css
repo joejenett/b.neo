@@ -28,8 +28,8 @@ body {
 }
 @media only screen and (max-width:540px) {
 	#clouds {
-	width:296px;
-	height:56px;		
+		width:296px;
+		height:56px;		
 	}
 	#clouds img {
 		width:140px;
@@ -247,14 +247,6 @@ a.mastodon-share:hover, a.mastodon-share:focus {
 }
 #results-container li {
 	list-style: none;
-}
-.gotalk {
-	border-radius: 4px;
-	box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
-	background-color: #fff;
-	padding: 1px;
-	max-height: 24.5px;
-	vertical-align: middle;
 }
 #bfixer {
 	width: 90%;
@@ -756,9 +748,6 @@ div>#show-cover img {
 	#guestbook {
 		margin-left:0;
 	}
-	#dabutts {
-		/*display:none; */
-	}
 	#play-gif, #stop-gif {
 		position:relative;
 		left:-12px;
@@ -782,8 +771,8 @@ div>#show-cover img {
 
 @media only screen and (max-width:430px) {
 	.iwtbanner {
-	width:320px;
-}
+		width:320px;
+	}
 	#mutual-buttons, #follower-buttons, #also-buttons {
 		padding: 16px 34px;
 	}
@@ -793,8 +782,8 @@ div>#show-cover img {
 		padding:14px 30px;
 	}
 	.iwtbanner {
-	width:300px;
-}
+		width:300px;
+	}
 	#thanks .button {
 		position:relative;
 	}
