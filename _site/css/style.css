@@ -8,6 +8,22 @@ body {
 	background-color: #0f0604;
 	color:#300202;
 }
+.postnav {
+	display:flex;
+	font-size:.75em;
+	font-weight:400;
+	margin:18px 0;
+	font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+.fifty {
+	width:50%;
+}
+.right {
+	text-align:right;
+}
+.ninerem {
+	font-size:,8rem;
+}
 .iwtbanner {
 	width:350px;
 }
