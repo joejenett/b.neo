@@ -33,6 +33,10 @@ body {
 	position:relative;
 	top:-4px;
 }
+.left-eight-pr {
+	position:relative;
+	left:8px;
+}
 .topless-eight-pr {
 	position:relative;
 	top:-8px;
