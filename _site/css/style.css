@@ -15,10 +15,59 @@ body {
 	margin:18px 0;
 	font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;
 }
+.itsoff {
+	font-size:.8rem;
+	color:#222;
+	font-weight:300;
+	margin-top:7px;
+} 
 #announcer {
 	 width:350px;
 	 max-height:75px;
 	 border:none;
+}
+.bs-text {
+	font-size:.9em;
+	font-weight:500;
+	color:#2c526a;
+	position:relative;
+	top:-4px;
+}
+.topless-eight-pr {
+	position:relative;
+	top:-8px;
+}
+.popbox {
+	font-size:1.3em;
+	border:2px solid #4a88b1;
+	border-radius:4px;
+	position:relative;
+	top:12px;
+}
+.popspan {
+	font-size:.65em;
+	font-weight:500;
+	color:#2c526a;
+	position:relative;
+	top:7px;
+}
+.topless-three-pr {
+	position:relative;
+	top:-3px;
+}
+.pr-two-t {
+	position:relative;
+	top:6px;
+}
+.butt-two-t {
+	width:88px;
+	margin-top:2px;
+}
+.eleven-t {
+	margin-top:11px;
+}
+.four-t {
+	margin-top:4px;
 }
 .fifty {
 	width:50%;
@@ -464,10 +513,22 @@ h1 {
 	color: #440303;
 	margin-bottom: 4px;
 }
+.brandbase {
+	margin-right:12px;
+	color:#440303;
+	font-weight:600;
+	font-size:1.1em;
+}
+.brandalt {
+	color:#355935;
+}
 #menu {
 	position: relative;
 	top: -12px;
-	border-top: 1px solid #ccc;
+	border-top: 1px solid #d7c2c1;
+	border-bottom:1px solid #d7c2c1;
+	font-size:.85em;
+	padding-top:12px;
 }
 #menu, #header {
 	font-size: .85rem;
