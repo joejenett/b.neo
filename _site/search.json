@@ -5,7 +5,7 @@
       "content"  : "\ncabbage sorter\nAywren's Nook\nANCIENTCRYPT\nVirtually Isolated\n~miou2192\nOmiword\nFrutiger Aero Archive\n\n\n\n",
       "category" : "i.like",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/sites-i-like-04-14-25/",
+      "url"      : "http://localhost:4000/sites-i-like-04-14-25/",
       "date"     : "Apr 14, 2025"
     } ,
   
@@ -14,7 +14,7 @@
       "content"  : "\n\tsome more of my faves...\n\n\n\tMaximum Crunch\n\tThe Castle\n\tDear Next Visitor...\n\tthe human finny\n\tTheme Machine\n\t☆⌒(\n\tSuper Color Palette\n\tOnio Café\n\n\n(cross-posted to mastodon)\n",
       "category" : "i.like",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/sites-i-like-04-04-25/",
+      "url"      : "http://localhost:4000/sites-i-like-04-04-25/",
       "date"     : "Apr 4, 2025"
     } ,
   
@@ -23,7 +23,7 @@
       "content"  : "\n\t\n\t\t\n\t\n\n\n\n\t(cross-posted to mastodon)\n\n",
       "category" : "words",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/simply-words/",
+      "url"      : "http://localhost:4000/simply-words/",
       "date"     : "Mar 27, 2025"
     } ,
   
@@ -32,7 +32,7 @@
       "content"  : "\n\n\n\n(cross-posted to mastodon)\n",
       "category" : "images",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/blue-lushe-for-red/",
+      "url"      : "http://localhost:4000/blue-lushe-for-red/",
       "date"     : "Mar 17, 2025"
     } ,
   
@@ -41,7 +41,7 @@
       "content"  : "\n\n\n\n(cross-posted to mastodon)\n",
       "category" : "images",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/skyform95/",
+      "url"      : "http://localhost:4000/skyform95/",
       "date"     : "Mar 11, 2025"
     } ,
   
@@ -50,7 +50,7 @@
       "content"  : "\n\n\n\n(cross-posted to mastodon)\n",
       "category" : "images",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/joy/",
+      "url"      : "http://localhost:4000/joy/",
       "date"     : "Mar 10, 2025"
     } ,
   
@@ -59,7 +59,7 @@
       "content"  : "\n\ta few more of my faves for ya\n\n\n\tDivergent Rays\n\tSwiftRed's Site\n\tOopsie Doodle\n\tWikiTok\n\tcervidaze ☘\n\tLockheart Love\n\t⦗ℍ𝕪𝕡𝕖𝕣𝔱𝔢𝔵𝔱: h0p3⦘\n\n\n(cross-posted to mastodon)\n",
       "category" : "i.like",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/sites-i-like-03-05-25/",
+      "url"      : "http://localhost:4000/sites-i-like-03-05-25/",
       "date"     : "Mar 5, 2025"
     } ,
   
@@ -68,7 +68,7 @@
       "content"  : "\n\nInspired by The DS106 Daily Create\n\n\n",
       "category" : "giggles",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/resident-chump-renames-the-gulf-of-mexico/",
+      "url"      : "http://localhost:4000/resident-chump-renames-the-gulf-of-mexico/",
       "date"     : "Feb 25, 2025"
     } ,
   
@@ -77,7 +77,7 @@
       "content"  : "cookie cutter minds\nbusiness opportunities\nfortunate failures\n\n#haiku\n\n(cross-posted to mastodon)\n",
       "category" : "words",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/02-22-25/",
+      "url"      : "http://localhost:4000/02-22-25/",
       "date"     : "Feb 22, 2025"
     } ,
   
@@ -86,7 +86,7 @@
       "content"  : "\nThis should shed some light on what I’m up to here...\n\n\n\n\tHow to surf the web!\n\t\n\t\n\tTo surf the web revival, you start on one site, you find links and you follow the trail; be brave, explore, keep going, keep going!\t\n\t\n\t\n\t\t// \n\t\t\n\t\t\tIntro to the Web Revival #1: What is the Web Revival?\n\t\t\n\t\n\n\n(cross-posted to mastodon)\n",
       "category" : "site",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/what-is-this-part-2/",
+      "url"      : "http://localhost:4000/what-is-this-part-2/",
       "date"     : "Feb 11, 2025"
     } ,
   
@@ -95,7 +95,7 @@
       "content"  : "\n\tYou’ve probably noticed animations are turned off by default on this site. I use freezeframe.js to allow site visitors to turn animations on or off and decided to leave that choice up to each visitor.\n\n\n\tWhen animations are turned off, only the first frame of an animated .gif file appears. If the name of the site is not present on that first frame, the button appears to be blank (unless hovered). While that may be an intentional design choice on the part of the button’s creator, I’m mentioning it only to be helpful to button creators who may not be aware of how freezeframe and similar solutions render buttons when animations are turned off.\n\n\n\tThe simple way to see a button’s animation when animations are turned off is to hover your mouse over the button.\n\n\n\t-joe jenett\n\n\n(cross-posted to mastodon)\n",
       "category" : "devtips",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/animated-buttons-when-paused/",
+      "url"      : "http://localhost:4000/animated-buttons-when-paused/",
       "date"     : "Feb 5, 2025"
     } ,
   
@@ -104,7 +104,7 @@
       "content"  : "\n\t\n\n\n\n(cross-posted to mastodon)\n\n",
       "category" : "images",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/feeding-frenzy/",
+      "url"      : "http://localhost:4000/feeding-frenzy/",
       "date"     : "Feb 1, 2025"
     } ,
   
@@ -113,7 +113,7 @@
       "content"  : "\nI recently completed a project to further improve how the site renders on mobile devices. I wrote more about it at the hub\t\n\n\n\tTo my Neocities’ followers - thanks for your interest!\n\n\n\tHoping you’ll check out the new bulltown.sidecar webring.\n\n\n\tCheers and thanks for stopping by!\n\n(cross-posted to mastodon)\n\n",
       "category" : "site",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/site-news-01-29-25/",
+      "url"      : "http://localhost:4000/site-news-01-29-25/",
       "date"     : "Jan 29, 2025"
     } ,
   
@@ -122,7 +122,7 @@
       "content"  : "\n\n\n\n(cross-posted to mastodon)\n",
       "category" : "images",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/wonderwall/",
+      "url"      : "http://localhost:4000/wonderwall/",
       "date"     : "Jan 13, 2025"
     } ,
   
@@ -131,7 +131,7 @@
       "content"  : "\n\n\n\n\tIt kinda jibes with my computer‘s main screen, a product of my ongoing desktop design therapy...😎\n\n(cross-posted to mastodon)\n",
       "category" : "images",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/that-other-desktop/",
+      "url"      : "http://localhost:4000/that-other-desktop/",
       "date"     : "Dec 27, 2024"
     } ,
   
@@ -140,7 +140,7 @@
       "content"  : "\n\tI’ve already shared this song elsewhere but after just listening to it (yet again), I can’t help but to share it with you - enjoy!\n\n\nLove and Painkillers by Clive Murray\n\n\n\n(cross-posted to mastodon)\n\n",
       "category" : "music",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/meet-my-buddy-clive/",
+      "url"      : "http://localhost:4000/meet-my-buddy-clive/",
       "date"     : "Dec 15, 2024"
     } ,
   
@@ -149,7 +149,7 @@
       "content"  : "\n\tI love button walls but now and then, when saving a site’s button, I find it’s 88x33 instead of 88x31 and using only the width and height attributes ends up breaking my layout. It seems that browsers follow the height attribute and reduce the width accordingly. I came up with a solution that worked for me (adding a little style) - it may not be the ’best practice’ but I decided to share just in case others find it useful: \n\n\n\t&lt;img src=\"/images/IMAGENAME.EXTENSION\" alt=\"ALT TEXT\" width=\"88\" height=\"31\" style=\"min-width:88px;max-height:31px;\"&gt;\n\n\nUpdate 02/13/25: Thanks to Matthew for reminding that using a class name instead of inline styles is probably a better way. In fact, I did that today thanks to his feedback.\n\n\nI added class=\"button-fix\" to each of the img tags in question and the following to my stylesheet:\n\n\n.button-fix {\n &nbsp; min-width:88px;\n &nbsp; max-height:31px;\n}\n\nIt is a better way!\n\n(cross-posted to mastodon)\n",
       "category" : "devtips",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/dealing-with-88x33-buttons/",
+      "url"      : "http://localhost:4000/dealing-with-88x33-buttons/",
       "date"     : "Dec 13, 2024"
     } ,
   
@@ -158,7 +158,7 @@
       "content"  : "\n\tselections from a long list...\n\n\n\tmakoenergy‧₊˚✧\n\tThe Satyrs’ Forest 🍇\n\tThe DS106 Daily Create\n\tdreamwiki\n\tRotating Sandwiches\n\tmelankorin.net✱\n\tmanyface world\n\n\n(cross-posted to mastodon)\n",
       "category" : "i.like",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/sites-i-like-12-02-24/",
+      "url"      : "http://localhost:4000/sites-i-like-12-02-24/",
       "date"     : "Dec 2, 2024"
     } ,
   
@@ -167,7 +167,7 @@
       "content"  : "\n\tjust a few of ’em...\n\n\nBohemian Sultriness\ndimden's hotel\n♡ cinni's dream home ♡\n32-Bit Cafe\nFrills\nmaya.land\nSakura Dreams\n\n\n(cross-posted to mastodon)\n",
       "category" : "i.like",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/sites-i-like-11-29-24/",
+      "url"      : "http://localhost:4000/sites-i-like-11-29-24/",
       "date"     : "Nov 29, 2024"
     } ,
   
@@ -176,7 +176,7 @@
       "content"  : "\n\n\tcolor me amazed\n\tdifficult men teaming up\n\tto rule the world... not!\n\n\n(cross-posted to mastodon)\n",
       "category" : "words",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/amazed/",
+      "url"      : "http://localhost:4000/amazed/",
       "date"     : "Nov 12, 2024"
     } ,
   
@@ -185,7 +185,7 @@
       "content"  : "\n\tMake it about your dreams!\n\n\n(cross-posted to mastodon)\n",
       "category" : "words",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/new-day-baby/",
+      "url"      : "http://localhost:4000/new-day-baby/",
       "date"     : "Nov 2, 2024"
     } ,
   
@@ -194,7 +194,7 @@
       "content"  : "\n\n\n\n(cross-posted to mastodon)\n",
       "category" : "images",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/gulfcoast/",
+      "url"      : "http://localhost:4000/gulfcoast/",
       "date"     : "Oct 28, 2024"
     } ,
   
@@ -203,7 +203,7 @@
       "content"  : "\n\tThe DS106 Daily Create had a thought-provoking challenge today. Though I’ve already responded on Mastodon, I’d like to share my timely haiku with ya:\n\n\nsoaring high above\nI see myself blowing leaves\nas they're still falling\n\n(cross-posted to mastodon)\n",
       "category" : "words",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/fly-like-an-eagle/",
+      "url"      : "http://localhost:4000/fly-like-an-eagle/",
       "date"     : "Oct 27, 2024"
     } ,
   
@@ -212,7 +212,7 @@
       "content"  : "\n\n\n\n\t(a manipulated version of 𝗯𝟮𝟮 | bluegreen forever)\n\n\n(cross-posted to mastodon)\n",
       "category" : "images",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/bluegreen-dream/",
+      "url"      : "http://localhost:4000/bluegreen-dream/",
       "date"     : "Oct 22, 2024"
     } ,
   
@@ -221,7 +221,7 @@
       "content"  : "\nIf you’re linking to bulltown, thank you and please let me know so I can add ya to the ‘mutuals’ section.\n\n\n(cross-posted to mastodon)\n",
       "category" : "site",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/102024/",
+      "url"      : "http://localhost:4000/102024/",
       "date"     : "Oct 20, 2024"
     } ,
   
@@ -230,7 +230,7 @@
       "content"  : "\n\n\n\n\n",
       "category" : "images",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/scenes-in-a-window/",
+      "url"      : "http://localhost:4000/scenes-in-a-window/",
       "date"     : "Oct 15, 2024"
     } ,
   
@@ -239,7 +239,7 @@
       "content"  : "My finicky friend WebNeko (up there in the left corner) doesn’t always play well with other scripts. At the b22 site, I actually had rebuilt the music section to bring little neko back. Now, here on the neo site, I did away with the Zonelets script, not because I didn’t like it, but because I was able to bring my little buddy back. Yay!\n\n(cross-posted to mastodon)\n",
       "category" : "site",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/my-little-webneko-wins-again/",
+      "url"      : "http://localhost:4000/my-little-webneko-wins-again/",
       "date"     : "Oct 13, 2024"
     } ,
   
@@ -248,7 +248,7 @@
       "content"  : "\n\n\n\n\tAlso at 𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | img.select.\n\n\n\n",
       "category" : "images",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/arcade-fire-people/",
+      "url"      : "http://localhost:4000/arcade-fire-people/",
       "date"     : "Oct 11, 2024"
     } ,
   
@@ -257,7 +257,7 @@
       "content"  : "\n\t\n\n\n\t(taken in the spring of 2008)\n\n\n\n",
       "category" : "images",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/in-the-yard/",
+      "url"      : "http://localhost:4000/in-the-yard/",
       "date"     : "Oct 10, 2024"
     } ,
   
@@ -266,7 +266,7 @@
       "content"  : "\nIn the short time since I joined Neocities, the feedback I’ve received from the community has been inspiring. To all of you following bulltown and those who have given me feedback, I’ve got something to say:\n\n\n\tThanks for making me feel welcome - I love this place!\n\n\n\n",
       "category" : "site",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/thanks!/",
+      "url"      : "http://localhost:4000/thanks!/",
       "date"     : "Oct 4, 2024"
     } ,
   
@@ -275,7 +275,7 @@
       "content"  : "Just a quick note to let you know I’ve been working on improving how the button walls render on mobile. Though most of the work is being done offline, both 𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 and 𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝗻𝗲𝗼 may occasionally look a little funky as the project continues. Thx. \n\n\n\tUpdate 10/02/24: Now that mobile’s looking good, some other changes are underway - please stay tuned... 😎\n\n\n\n",
       "category" : "site",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/site-news-09-30-24/",
+      "url"      : "http://localhost:4000/site-news-09-30-24/",
       "date"     : "Sep 30, 2024"
     } ,
   
@@ -284,7 +284,7 @@
       "content"  : "\n\t...selections from b22 words\n\n\n\t\n\t\tstevie\n\t\n\t\n\t\tat the end of the day\n\t\n\t\n\t\tscattered soul\n\t\n\t\n\t\trunning\n\t\n\n\n\n",
       "category" : "words",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/pieces-of-me.../",
+      "url"      : "http://localhost:4000/pieces-of-me.../",
       "date"     : "Sep 28, 2024"
     } ,
   
@@ -293,7 +293,7 @@
       "content"  : "\npeople need freedom\ngotta express their real selves\nto mean anything\n\n\n🌱 𝚓𝚘𝚎. 𝚒𝚍𝚎𝚊𝚜.\n\n\n\n    \n        Share to Mastodon\n    \n    \n\n\n\n\n",
       "category" : "words",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/freedom/",
+      "url"      : "http://localhost:4000/freedom/",
       "date"     : "Sep 25, 2024"
     } ,
   
@@ -302,7 +302,7 @@
       "content"  : "\n  joe jenett, 2010\n\n\n    \n        Share to Mastodon\n    \n    \n\n\n\n",
       "category" : "music",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/baby-baby/",
+      "url"      : "http://localhost:4000/baby-baby/",
       "date"     : "Sep 24, 2024"
     } ,
   
@@ -311,7 +311,7 @@
       "content"  : "\n𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝗻𝗲𝗼 is 7 days old today. It’s also my birthday but I stopped counting a long time ago. 😎\n\n\n\tThe original 𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻 goes back some 25 years and was revived in 2022. Versions 3 and 4 are still online, one of which evolved into my current simply. blog.\n\n\nAs the saying goes, this ain’t my first rodeo. I love the web!\n\n\nThank you Neocities community - I appreciate those following 𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝗻𝗲𝗼 and created a little section with your linked buttons on the main page (also at 𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮).\n\n\nMake it a great day and thanks for stopping by…\n\n\n\n",
       "category" : "site",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/7-days-and-counting/",
+      "url"      : "http://localhost:4000/7-days-and-counting/",
       "date"     : "Sep 19, 2024"
     } ,
   
@@ -320,7 +320,7 @@
       "content"  : "\n\tThe idea to create bulltown.neo came to me recently as I explored a(nother) newly discovered Neocities site.\n\n\nAs a curator (of sorts) on the web since 1997, Neocities holds a special place in my heart. The personal web is flourishing again and they’ve played a big part in its revival. I’m grateful.\n\n\nSo here I am y’all, happy to be a small part of this vibrant community.\n\n\nThough bulltown lives on my personal domain, we’ve been neighbors for a long time. Nice to meet ya!\n\n\n\n\n",
       "category" : "site",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/what-is-this/",
+      "url"      : "http://localhost:4000/what-is-this/",
       "date"     : "Sep 14, 2024"
     } ,
   
@@ -329,7 +329,7 @@
       "content"  : "\n\tI’m working on it - please pardon our dust... 😎\n\n\n\tUpdate 09/14/24: The next thing I’ll be working on here is to add the button wall ('links') and some other homepage stuff. I’ll be writing soon about why I created this companion site to bulltown here at Neocities.\n I love you guys so please stay tuned as I bring this puppy to life.\n\t\n\n\t&ndash;joe jenett\n\n\n\n",
       "category" : "site",
       "tags"     : "",
-      "url"      : "https://bulltown.neocities.org/welcome/",
+      "url"      : "http://localhost:4000/welcome/",
       "date"     : "Sep 13, 2024"
     } 
   
