@@ -70,7 +70,7 @@
 }
 </style>
 <title>
-𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮
+𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝗻𝗲𝗼
 
  &nbsp; sites.i.like 04-14-25</title>
 </head>
@@ -158,42 +158,7 @@
 				</span>
 			</p>
 		</span>
-	</footer><div style="display:flex;font-size:.75em;font-weight:400;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:18px;">
-	<div style="width:50%;">
-		
-		<a href="/sites-i-like-04-04-25/">&larr; previous</a>
-		
-	</div>
-	<div style="width:50%;text-align:right;">
-		
-	</div>
-</div>
-<!--
-	<script>
-		$().ready(function(){
-			$.getJSON( "https://webmention.io/api/mentions?token=Bbeh8Vrr0wzBQUsaAa6byw",
-			function( mydata ) {
-				console.log(mydata);
-				var output = '';
-				$.each(mydata.links, function(i, v) {
-					if (v.target.search(new RegExp(/sites-i-like-04-14-25/i)) != -1) {
-						output = '<div style="margin:18px 0 9px 0;font-size:.9rem;font-weight:600;">Reactions: </div>';
-					}
-				});
-				$.each(mydata.links, function(i, v) {
-					if (v.target.search(new RegExp(/sites-i-like-04-14-25/i)) != -1) {
-						output += '<p><a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="source of reaction" width="48"><br />' + v.data.author.name + '</a></p> ';
-					}
-				});
-				output += ' ';
-				$('#result').html(output);
-			});	
-		});
-	</script>
-	<div id="result"></div>
--->
-
-<script>
+	</footer><script>
 	$().ready(function(){
 		$.getJSON( "https://webmention.io/api/links?target=https://bulltown.neocities.org/sites-i-like-04-14-25/",
 		function( mydata ) {
@@ -219,6 +184,91 @@
 	<div id="resultsp" style="margin-top:24px;">
 		
 	</div>
+
+<div style="margin-bottom:36px;"><section class="page__comments">
+  <h4 class="page__comments-title bold nineem">Comments</h4>
+  <p class="nineem">You can use your <a href="https://joinmastodon.org">Mastodon</a> or other ActivityPub account to comment on this article by replying to the associated <a class="link" href="https://toot.community/@jenett/114336234662028636">post</a>.</p>
+  <p id="mastodon-comments-list" class="ninerem;">
+    <button id="load-comment" class="btn btn--twitter">Load comments from Mastodon</button>
+  </p>
+  <noscript><p>You have to allow JavaScript to view the comments.</p></noscript>
+  <script src="/js/purify.min.js"></script>
+  <script type="text/javascript">
+    function escapeHtml(unsafe) {
+      return unsafe
+           .replace(/&/g, "&amp;")
+           .replace(/</g, "&lt;")
+           .replace(/>/g, "&gt;")
+           .replace(/"/g, "&quot;")
+           .replace(/'/g, "&#039;");
+    }
+
+    document.getElementById("load-comment").addEventListener("click", function() {
+      document.getElementById("load-comment").innerHTML = "Loading";
+      fetch('https://toot.community/api/v1/statuses/114336234662028636/context')
+        .then(function(response) {
+          return response.json();
+        })
+        .then(function(data) {
+          if(data['descendants'] &&
+             Array.isArray(data['descendants']) && 
+            data['descendants'].length > 0) {
+              document.getElementById('mastodon-comments-list').innerHTML = "";
+              data['descendants'].forEach(function(reply) {
+                if(reply.account.display_name.length > 0)
+                {
+                  reply.account.display_name = escapeHtml(reply.account.display_name);
+                  reply.account.emojis.forEach(emoji => {
+                    reply.account.display_name = reply.account.display_name.replace(`:${emoji.shortcode}:`,
+                    `<img src="${escapeHtml(emoji.static_url)}" alt="Emoji ${emoji.shortcode}" height="20" width="20" />`);
+                    });
+                } else {
+                  reply.account.display_name = reply.account.acct;
+                };
+                mastodonComment =
+                  `<article id="comment-${reply.id }" class="js-comment comment" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
+                     <div class="js-comment comment">
+                       <div class="comment__avatar-wrapper">
+                         <img class="comment__avatar" src="${escapeHtml(reply.account.avatar_static)}" height=48 width=48 alt="">
+                       </div>
+                       <div class="comment__content-wrapper">
+                        <h3 class="comment__author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+                          <a rel="external nofollow" itemprop="url" href="${reply.account.url}" rel="nofollow">
+                            <span class="ninerem">${reply.account.display_name}</span>
+                          </a>
+                        </h3>
+                        <p class="comment__date ninerem">
+                          <a itemprop= "url" href="${reply.uri}" rel="nofollow">${reply.created_at.substr(0, 10)}</a>
+                        </p>
+                        <div class="ninerem" itemprop="text">${reply.content}</div>
+						<div class="status" style="display:none;">
+                          <i class="fa fa-reply fa-fw"></i>${reply.replies_count}&nbsp;|&nbsp; 
+                          <i class="fa fa-retweet fa-fw"></i>${reply.reblogs_count}&nbsp;|&nbsp;
+                          <i class="fa fa-star fa-fw"></i>${reply.favourites_count}
+                        </div> 
+                       </div>
+                      </div>
+                    </article>`;
+                document.getElementById('mastodon-comments-list').appendChild(DOMPurify.sanitize(mastodonComment, {'RETURN_DOM_FRAGMENT': true}));
+              });
+          } else {
+            document.getElementById('mastodon-comments-list').innerHTML = "<p class='ninerem'>No comments found (yet)! Be the first!</p>";
+          }
+        });
+      });
+  </script>
+</section></div>
+
+<div style="display:flex;font-size:.75em;font-weight:400;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;padding-top:18px;">
+	<div style="width:50%;">
+		
+		<a href="/sites-i-like-04-04-25/">&larr; previous</a>
+		
+	</div>
+	<div style="width:50%;text-align:right;">
+		
+	</div>
+</div>
 
 
 	<p><a class="u-url" href="https://bulltown.neocities.org/sites-i-like-04-14-25/"><small>(permalink)</small></a></p>
