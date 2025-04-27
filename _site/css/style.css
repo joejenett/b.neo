@@ -83,7 +83,7 @@ body {
 	font-size:,8rem;
 }
 .iwtbanner {
-	width:350px;
+	width:200px;
 }
 #cloudwrap {
 	justify-content:center;
@@ -856,9 +856,7 @@ div>#show-cover img {
 }
 
 @media only screen and (max-width:430px) {
-	.iwtbanner {
-		width:320px;
-	}
+	
 	#mutual-buttons, #follower-buttons, #also-buttons {
 		padding: 16px 34px;
 	}
@@ -867,9 +865,7 @@ div>#show-cover img {
 	#mutual-buttons, #follower-buttons, #also-buttons {
 		padding:14px 30px;
 	}
-	.iwtbanner {
-		width:300px;
-	}
+
 	#thanks .button {
 		position:relative;
 	}
