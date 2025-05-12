@@ -3,13 +3,35 @@
   <title type="text" xml:lang="en">bulltown.neo</title>
   <link type="application/atom+xml" href="https://bulltown.neocities.org/feed.atom" rel="self"/>
   <link type="text/html" href="https://bulltown.neocities.org/" rel="alternate"/>
-  <updated>2025-05-10T12:26:59-04:00</updated>
+  <updated>2025-05-12T06:49:30-04:00</updated>
   <id>https://bulltown.neocities.org/full_content_feed</id>
   <author>
     <name>joe jenett</name>
   </author>
   <rights>2000-2023 © joe jenett. Some rights reserved.</rights>
 
+  
+  <entry>
+    <title>first peek</title>
+    <link href="https://bulltown.neocities.org/first-peek/"/>
+    <updated>2025-05-11T10:07:09-04:00</updated>
+    <id>https://bulltown.neocities.org/first-peek/</id>
+    <content type="html">&lt;p&gt;
+they appear in June...
+&lt;/p&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;
+&lt;img src=&quot;/images/firstpeek-v.png&quot; width=&quot;100%&quot; title=&quot;first peek&quot; alt=&quot;a photo of lily in the garden which blooms in June&quot; style=&quot;max-width:100%;border:1px solid #440303;&quot; /&gt;
+&lt;/p&gt;
+&lt;p&gt;
+	Image converted with &lt;a title=&quot;by visualthinkery&quot; href=&quot;https://remixer.visualthinkery.com/a/voronoi&quot;&gt;Voronoi&lt;/a&gt;, in reponse to &lt;a title=&quot;#tdc4867 #ds106  Voroni-fy Your World | The DS106 Daily Create&quot; href=&quot;https://daily.ds106.us/tdc4867/&quot;&gt;Voroni-fy Your World | The DS106 Daily Create&lt;/a&gt;.
+&lt;/p&gt;
+&lt;p&gt;
+	Original photo:&lt;br /&gt;&lt;img src=&quot;/images/first_peek.jpg&quot; width=&quot;200&quot; title=&quot;first peek&quot; alt=&quot;a photo of lily in the garden which blooms in June&quot; style=&quot;
+	width:200px;border:1px solid #440303;&quot; /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>third street</title>
@@ -44,25 +66,6 @@ a wall in Royal Oak...
 &lt;li&gt;&lt;a title=&quot;snails&quot; href=&quot;https://snails.neocities.org/&quot;&gt;snails&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a title=&quot;snake&quot; href=&quot;https://playmoar.neocities.org/&quot;&gt;&lt;small&gt;THE ENGULFED CATHEDRAL&lt;/small&gt; | ⛪🔥&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a title=&quot;zeus&quot; href=&quot;https://zeusofthecrows.github.io/stadt/&quot;&gt;Ɀeus&apos; Stadt&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>sites.i.like 04-14-25</title>
-    <link href="https://bulltown.neocities.org/sites-i-like-04-14-25/"/>
-    <updated>2025-04-14T07:48:28-04:00</updated>
-    <id>https://bulltown.neocities.org/sites-i-like-04-14-25/</id>
-    <content type="html">&lt;ul&gt;
-&lt;li&gt;&lt;a title=&quot;Cabbage&quot; href=&quot;https://cabbagesorter.neocities.org/&quot;&gt;cabbage sorter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&quot;Gaming &amp;amp; Geek Blog by Aywren&quot; href=&quot;https://aywren.com/&quot;&gt;Aywren&apos;s Nook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&quot;Reliquia&quot; href=&quot;https://ancientcrypt.neocities.org/&quot;&gt;&lt;small&gt;ANCIENTCRYPT&lt;/small&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&quot;Retro Rat&quot; href=&quot;https://virtually-isolated.neocities.org/&quot;&gt;Virtually Isolated&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&quot;kiwi&quot; href=&quot;https://miou2192.neocities.org/&quot;&gt;~miou2192&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&quot;Omiword - a word puzzle game&quot; href=&quot;https://www.omiword.com/&quot;&gt;Omiword&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&quot;Daniele&quot; href=&quot;https://frutigeraeroarchive.org/&quot;&gt;Frutiger Aero Archive&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
