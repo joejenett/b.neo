@@ -377,7 +377,7 @@ h3 {
 	border: 1px solid #a28181;
 	border-radius: 10px;
 	margin: 18px 40px 72px 40px;
-	padding: 34px 58px;
+	padding: 34px 58px 34px 48px;
 }
 #button-wall {
 	text-align: center;
@@ -720,9 +720,9 @@ div #nl {
 #buttons {
 	margin-top: 0;
 }
-#buttonwall .button {
+/*#buttonwall .button {
 	margin:2px;
-}
+}*/
 #button-wall {
 	text-align: center;
 	margin: 36px 20px;
@@ -783,7 +783,7 @@ div>#show-cover img {
 		padding: 16px 24px;
 	}
 	#buttonwall {
-		padding:34px 34px;
+		padding:34px 34px 34px 26px;
 	}
 	#homewall {
 		padding:40px 0 40px 7px;
@@ -794,7 +794,7 @@ div>#show-cover img {
 		padding: 16px 0;
 	}
 	#buttonwall {
-		padding:34px 50px;
+		padding:34px 46px;
 	}
 	#homewall {
 		padding:40px 46px;
@@ -816,9 +816,9 @@ div>#show-cover img {
 	#bfixer {
 		max-width: 92%;
 	}
-	.button {
+/*	.button {
 		margin: 1px;
-	}
+	}*/
 	#welcome {
 		margin-top:12px;
 	}
@@ -847,7 +847,7 @@ div>#show-cover img {
 		padding: 16px 30px;
 	}
 	#buttonwall {
-		padding: 34px 42px;
+		padding: 34px 40px 34px 36px;
 	}
 	#homewall {
 		padding:40px 0 40px 12px;
@@ -869,14 +869,14 @@ div>#show-cover img {
 		position:relative;
 	}
 		#buttonwall {
-		padding: 34px 40px;
+		padding: 34px 42px 34px 34px;
 	}
 
 }
 
 @media only screen and (max-width:414px) {
 	#buttonwall {
-		padding: 34px 34px;
+		padding: 34px 32px 34px 28px;
 	}
 	#homewall {
 		padding:40px 36px;
@@ -891,7 +891,7 @@ div>#show-cover img {
 		overflow: hidden scroll;
 	}
 	#buttonwall {
-		padding: 34px 22px;
+		padding: 34px 22px 34px 14px;
 	}
 	#homewall {
 		padding:34px 24px;
