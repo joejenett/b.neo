@@ -675,6 +675,7 @@ div #reasons img {
 	border-top:3px double #29221c;
 	position:relative;
 	top:12px;
+	left:-8px;
 }
 #links-mutuals {
 	font-size: 1em;
