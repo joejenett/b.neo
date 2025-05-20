@@ -122,7 +122,7 @@ body {
 	text-align: center;
 	border: 1px solid #a28181;
 	border-radius: 10px;
-	padding:40px 50px;
+	padding:40px 58px;
 }
 #mutual-buttons, #follower-buttons, #also-buttons {
 	max-width:578px;
@@ -243,7 +243,7 @@ li {
 }
 .button {
 	max-width: 88px;
-	margin: 3px;
+	margin: 2px;
 	float: left;
 }
 .button a:hover img, .iwt a:hover img, #dabutts a:hover img, #slug a:hover img, .div1 a:hover img, .div2 a:hover img, .div3 a:hover img, a.zoomy:hover img {
@@ -669,10 +669,12 @@ div #reasons img {
 	margin:0 auto;
 }
 #buttsep {
-	clear: both;
-	margin-top: 100px;
-	height: 24px;
-	border-top: 3px double #29221c;
+	clear:both;
+	margin:0 6px 0 10px;
+	height:24px;
+	border-top:3px double #29221c;
+	position:relative;
+	top:12px;
 }
 #links-mutuals {
 	font-size: 1em;
@@ -786,7 +788,7 @@ div>#show-cover img {
 		padding:34px 34px 34px 26px;
 	}
 	#homewall {
-		padding:40px 0 40px 7px;
+		padding:40px 0 40px 9px;
 	}
 }
 @media only screen and (max-width:540px) {
@@ -797,11 +799,14 @@ div>#show-cover img {
 		padding:34px 46px;
 	}
 	#homewall {
-		padding:40px 46px;
+		padding:40px 50px;
 	}
 	.hideit, .announce {
 		display:none;
 	}
+	#buttsep  {
+		margin:0 4px 0 10px;
+	}	
 }
 @media only screen and (max-width:479px) {
 	body {
@@ -853,12 +858,25 @@ div>#show-cover img {
 		padding:40px 0 40px 12px;
 	}
 }
-
+@media only screen and (max-width:440px) {
+	#homewall {
+		padding:40px 0 40px 16px;
+	}
+	#buttsep  {
+		margin:0 12px 0 10px;
+	}	
+}
 @media only screen and (max-width:430px) {
 	
 	#mutual-buttons, #follower-buttons, #also-buttons {
 		padding: 16px 34px;
 	}
+	#homewall {
+		padding:40px 0 40px 10px;
+	}
+	#buttsep  {
+		margin:0 2px 0 10px;
+	}	
 }
 @media only screen and (max-width:428px) {
 	#mutual-buttons, #follower-buttons, #also-buttons {
@@ -868,10 +886,18 @@ div>#show-cover img {
 	#thanks .button {
 		position:relative;
 	}
-		#buttonwall {
+	#buttonwall {
 		padding: 34px 42px 34px 34px;
 	}
-
+	#homewall {
+		padding:40px 0 40px 12px;
+	}
+	#home-thanks {
+		padding-right:24px;
+	}
+	#mutuals, #followers, #also {
+		padding-right:14px;
+	}
 }
 
 @media only screen and (max-width:414px) {
@@ -879,7 +905,7 @@ div>#show-cover img {
 		padding: 34px 32px 34px 28px;
 	}
 	#homewall {
-		padding:40px 36px;
+		padding:40px 32px;
 	}
 	#mutual-buttons, #follower-buttons, #also-buttons {
 		padding:14px 0;
@@ -894,7 +920,7 @@ div>#show-cover img {
 		padding: 34px 22px 34px 14px;
 	}
 	#homewall {
-		padding:34px 24px;
+		padding:34px 20px;
 	}
 	#mutual-buttons, #follower-buttons, #also-buttons {
 		padding:14px 0;
