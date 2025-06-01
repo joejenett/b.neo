@@ -1,6 +1,15 @@
 [
     
       {
+      "title"    : "/sites-i-like-06-01-25/",
+      "content"  : "\n\t\n\n\n\tdudalog\n\tmetalvalley\n\tpixalina\n\tevilperson: Fairy Ring!\n\tko's crag\n\tjamie's epic web zone\n\tthe ether personified..\n\tWiiCHiCKEN i AM AWESOME\n\tStrawberry Bunny\n\n\n\n",
+      "category" : "i.like",
+      "tags"     : "",
+      "url"      : "http://localhost:4000/sites-i-like-06-01-25/",
+      "date"     : "Jun 1, 2025"
+    } ,
+  
+      {
       "title"    : "/first-peek/",
       "content"  : "\nthey appear in June...\n\n\n\n\n\n\tImage converted with Voronoi, in reponse to Voroni-fy Your World | The DS106 Daily Create.\n\n\n\tOriginal photo:\n\n\n",
       "category" : "images",
