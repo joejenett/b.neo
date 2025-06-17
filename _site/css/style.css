@@ -8,6 +8,42 @@ body {
 	background-color: #0f0604;
 	color:#300202;
 }
+#locatetext {
+	border-top:1px solid #440303;
+	padding-top:12px;
+	text-align:left;
+	margin:12px 0 24px 0;
+	font-weight:400;
+}
+#button-search, #locator, #locatetopper {
+	background:#fff;
+	border:1px solid #440303;
+}
+#locator {
+	font-size:.6em;
+}
+.mw100 {
+	max-width:100%;
+}
+#locatetopper {
+	text-align:center;
+	position:relative;
+	top:-24px
+}
+#locatetopperwrap {
+	position:fixed;
+	right: 48px;
+	top:600px;
+}
+#formwrap {
+	text-align:center;
+}
+.mt-9 {
+	margin-top:9px;
+}
+.center {
+	text-align:center;
+}
 .w88 {
 	width:88px;
 }
@@ -340,7 +376,7 @@ body {
 }
 #linksbuttons {
 	text-align:center;
-	margin-top:24px;
+	padding-top:24px;
 	clear:both;
 }
 #buttons {
@@ -957,6 +993,10 @@ div>#show-cover img {
 	.hideit {
 		display:none;
 	}
+	#locatetopperwrap {
+		right: 24px;
+		top:800px;
+	}
 }
 @media only screen and (max-width:600px) {
 	#mutual-buttons, #follower-buttons, #also-buttons {
@@ -967,6 +1007,10 @@ div>#show-cover img {
 	}
 	#homewall {
 		padding:40px 0 40px 9px;
+	}
+	#locatetopperwrap {
+		right: 10px;
+		top:830px;
 	}
 }
 @media only screen and (max-width:540px) {
@@ -985,6 +1029,10 @@ div>#show-cover img {
 	#buttsep  {
 		margin:0 4px 0 10px;
 	}	
+	#locatetopperwrap {
+		right: 12px;
+		top:700px;
+	}
 }
 @media only screen and (max-width:479px) {
 	body {
@@ -1038,7 +1086,7 @@ div>#show-cover img {
 }
 @media only screen and (max-width:440px) {
 	#homewall {
-		padding:40px 0 40px 16px;
+		padding:40px 20px;
 	}
 	#buttsep  {
 		margin:0 12px 0 10px;
@@ -1076,6 +1124,10 @@ div>#show-cover img {
 	#mutuals, #followers, #also {
 		padding-right:14px;
 	}
+	#locatetopperwrap {
+		right: 10px;
+		top:810px;
+	}
 }
 
 @media only screen and (max-width:414px) {
@@ -1087,6 +1139,10 @@ div>#show-cover img {
 	}
 	#mutual-buttons, #follower-buttons, #also-buttons {
 		padding:14px 0;
+	}
+	#locatetopperwrap {
+		right: 10px;
+		top:810px;
 	}
 }
 
@@ -1105,5 +1161,9 @@ div>#show-cover img {
 	}
 	#thanks .button {
 		position:relative;
+	}
+	#locatetopperwrap {
+		right: 12px;
+		top:810px;
 	}
 }
