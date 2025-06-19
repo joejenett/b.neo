@@ -29,6 +29,10 @@ body {
 .mw100 {
 	max-width:100%;
 }
+.mw100-b {
+	max-width:100%;
+	border:1px solid #440303;
+}
 #locatetopper {
 	text-align:center;
 	position:relative;
