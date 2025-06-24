@@ -449,7 +449,25 @@ li {
 	border-radius:6px;
 	line-height:1px;
 	position:relative;
+	left: -8px;	
+}
+.iwt-b {
+	width:272px;
+	margin:24px auto 30px auto;
+	padding:1px;
+	border-radius:6px;
+	line-height:1px;
+	position:relative;
 	left: -8px;
+}
+.iwt-b img {
+	margin:1px;
+}
+.iwt-b img.odd {
+	transform:skewY(3deg);
+}
+.iwt-b img.even {
+	transform:skewY(-3deg);
 }
 #dabutts {
 	position:relative;
@@ -467,7 +485,7 @@ li {
 	margin: 2px;
 	float: left;
 }
-.button a:hover img, .iwt a:hover img, #dabutts a:hover img, #slug a:hover img, .div1 a:hover img, .div2 a:hover img, .div3 a:hover img, a.zoomy:hover img {
+.button a:hover img, .iwt a:hover img,  .iwt-b a:hover img, #dabutts a:hover img, #slug a:hover img, .div1 a:hover img, .div2 a:hover img, .div3 a:hover img, a.zoomy:hover img {
 	transform: scale(1.1);
 }
 #play-gif img, #stop-gif img {
