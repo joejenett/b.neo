@@ -452,7 +452,7 @@ li {
 	left: -8px;	
 }
 .iwt-b {
-	width:362px;
+	width:272px;
 	margin:24px auto 30px auto;
 	padding:1px;
 	border-radius:6px;
@@ -462,6 +462,7 @@ li {
 }
 .iwt-b img {
 	margin:1px;
+	max-width:66px;
 }
 .iwt-b img.odd {
 	transform:skewY(3deg);
