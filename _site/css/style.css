@@ -16,8 +16,8 @@ body {
 	text-align:center;
 	margin:36px 20% 0 20%;
 	border-top: 1px solid #869b86;
-	border-bottom: 1px solid #869b86;
-	padding-bottom:6px;
+	/*border-bottom: 1px solid #869b86;
+	padding-bottom:6px;*/
 }
 .br24 {
 	border-radius:24px;
