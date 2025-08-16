@@ -8,6 +8,9 @@ body {
 	background-color: #0f0604;
 	color:#300202;
 }
+.va-m {
+	vertical-align:middle;
+}
 .bgbase {
 	background-color: #fff9e6;
 	margin:auto;
