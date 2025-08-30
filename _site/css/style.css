@@ -17,6 +17,7 @@ body {
 .bgbase {
 	background-color: #fff9e6;
 	margin:auto;
+	font-style:italic;
 }
 .br24 {
 	border-radius:24px;
