@@ -8,6 +8,27 @@ body {
 	background-color: #0f0604;
 	color:#300202;
 }
+.ital {
+	font-style:italic;
+}
+.bb {
+	border-bottom:1px solid #ddd;
+	padding-bottom:100px;
+}
+.bt {
+	margin-top:100px;
+	border-top:1px solid #ddd;
+	padding-top:36px;
+}
+.bm60 {
+	padding-bottom:60px;
+}
+.bm100 {
+	padding-bottom:100px;
+}
+.h100 {
+	height:100px;
+}
 .tb24 {
 	margin:24px 0;
 }
@@ -86,6 +107,9 @@ body {
 }
 .mt-2 {
 	margin-top:2px;
+}
+.mt-24 {
+	margin-top:24px;
 }
 .offby {
 	font-size:.8em;
