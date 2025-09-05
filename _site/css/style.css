@@ -9,18 +9,9 @@ body {
 	color:#300202;
 }
 .pr-an {
-	position:relative;
-	float:right;
-	width:40;
-	height:40px;
-	margin-right:24px;
-}
-.pr-an2 {
-	position:relative;
-	float:right;
-	width:28px;
-	height:28px;
-	margin:6px;
+	margin:0 auto 12px auto;
+	width:36px;
+	height:36px;
 }
 .ital {
 	font-style:italic;
@@ -164,7 +155,7 @@ body {
 	border:none;
 	overflow:auto;
 	max-width:98%;
-	margin-top:-18px;
+	margin-top:-12px;
 	border:1px solid #bc9a98;
 }
 .pointnineem {
@@ -267,6 +258,10 @@ body {
 	width:88px;
 	margin-top:2px;
 }
+.butt66 {
+	width:66px;
+	margin-top:2px;
+}
 #load-note {
 	text-align:center;
 	border: 1px solid #a28181;
@@ -316,7 +311,7 @@ body {
 	 border:none;
 }
 .bs-text {
-	font-size:.9em;
+	font-size:.8em;
 	font-weight:500;
 	color:#2c526a;
 	position:relative;
@@ -558,6 +553,9 @@ li {
 	max-width: 88px;
 	margin: 2px;
 	float: left;
+}
+#dabutts div.pr-an a:hover img {
+	transform: scale(2.8);
 }
 .button a:hover img, .iwt a:hover img, .iwt-b a:hover img, #dabutts a:hover img, #slug a:hover img, .div1 a:hover img, .div2 a:hover img, .div3 a:hover img, a.zoomy:hover img {
 	transform: scale(1.1);
@@ -1091,7 +1089,7 @@ div>#show-cover img {
 }
 
 @media only screen and (max-width:768px) {
-	.hideit {
+	p.hideit, div.hideit {
 		display:none;
 	}
 	#locatetopperwrap {
