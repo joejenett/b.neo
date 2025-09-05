@@ -8,6 +8,20 @@ body {
 	background-color: #0f0604;
 	color:#300202;
 }
+.pr-an {
+	position:relative;
+	float:right;
+	width:40;
+	height:40px;
+	margin-right:24px;
+}
+.pr-an2 {
+	position:relative;
+	float:right;
+	width:28px;
+	height:28px;
+	margin:6px;
+}
 .ital {
 	font-style:italic;
 }
