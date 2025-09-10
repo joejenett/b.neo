@@ -55,6 +55,9 @@ body {
 	border-radius:6px;
 	border:1px solid #381d08;
 }
+.bgbase.br6 {
+	padding:0 6px;
+}
 .ml-8 {
 	margin-left:-8px;
 }
