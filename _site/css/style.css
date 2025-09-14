@@ -55,7 +55,12 @@ body {
 	border-radius:6px;
 	border:1px solid #381d08;
 }
-.bgbase.br6 {
+.bsp6 {
+	border-radius:6px;
+	border:1px solid #d7d2ce;
+	
+}
+.bgbase.bsp6 {
 	padding:0 6px;
 }
 .ml-8 {
@@ -571,6 +576,7 @@ li {
 	height:17px;
 	border-radius:6px;
 	border:1px solid #440303;
+	box-shadow: 1px 1px #376f7f;
 }
 #play-gif img:hover, #stop-gif img:hover {
 	transform: scale(1.1);
