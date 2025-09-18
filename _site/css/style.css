@@ -20,6 +20,14 @@ body {
 	width:36px;
 	height:36px;
 }
+.prtwo-an {
+	margin: -12px 0 4px 240px;
+	width:12px;
+	height:12px;
+}
+.prtwo-an a:hover img {
+	transform: scale(8.0);
+}
 .ital {
 	font-style:italic;
 }
@@ -179,12 +187,17 @@ body {
 .pointeightem {
 	font-size:.8em;
 }
-.bn-1 {
-	font-size:1.5em;
+#bnwrap {
 	position:relative;
 	top:-8px;
+}
+.bn-1 {
+	font-size:1.5em;
+	/*position:relative;
+	top:-8px;*/
 	color:#440303;
 	border-bottom:1px solid #d7c2c1;
+	margin-bottom:42px;
 }	
 .bn-2 {
 	color:#6f775e;
@@ -1127,6 +1140,9 @@ div>#show-cover img {
 		right: 10px;
 		top:830px;
 	}
+	#bnwrap {
+		top:-84px;
+	}
 }
 @media only screen and (max-width:540px) {
 	#mutual-buttons, #follower-buttons, #also-buttons {
@@ -1147,6 +1163,9 @@ div>#show-cover img {
 	#locatetopperwrap {
 		right: 12px;
 		top:700px;
+	}
+	#bnwrap {
+		top:-120px;
 	}
 }
 @media only screen and (max-width:479px) {
@@ -1198,6 +1217,9 @@ div>#show-cover img {
 	#homewall {
 		padding:40px 0 40px 12px;
 	}
+	#bnwrap {
+		top:-172px;
+	}
 }
 @media only screen and (max-width:440px) {
 	#homewall {
@@ -1218,6 +1240,9 @@ div>#show-cover img {
 	#buttsep  {
 		margin:0 2px 0 10px;
 	}	
+	#bnwrap {
+		top:-178px;
+	}
 }
 @media only screen and (max-width:428px) {
 	#mutual-buttons, #follower-buttons, #also-buttons {
@@ -1280,5 +1305,8 @@ div>#show-cover img {
 	#locatetopperwrap {
 		right: 12px;
 		top:810px;
+	}
+		#bnwrap {
+		top:-196px;
 	}
 }
