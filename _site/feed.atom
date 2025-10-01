@@ -3,13 +3,28 @@
   <title type="text" xml:lang="en">bulltown.neo</title>
   <link type="application/atom+xml" href="https://bulltown.neocities.org/feed.atom" rel="self"/>
   <link type="text/html" href="https://bulltown.neocities.org/" rel="alternate"/>
-  <updated>2025-09-30T06:51:47-04:00</updated>
+  <updated>2025-10-01T07:44:55-04:00</updated>
   <id>https://bulltown.neocities.org/full_content_feed</id>
   <author>
     <name>joe jenett</name>
   </author>
   <rights>2000-2023 © joe jenett. Some rights reserved.</rights>
 
+  
+  <entry>
+    <title>nightwatch</title>
+    <link href="https://bulltown.neocities.org/nightwatch/"/>
+    <updated>2025-10-01T07:13:38-04:00</updated>
+    <id>https://bulltown.neocities.org/nightwatch/</id>
+    <content type="html">&lt;p&gt;
+something there
+&lt;/p&gt;
+&lt;p class=&quot;center&quot;&gt;
+&lt;img class=&quot;mw100-b&quot; src=&quot;/images/nightwatch.jpg&quot; width=&quot;100%&quot; title=&quot;nightwatch&quot; alt=&quot;nightwatch&quot; /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>highway spaces (47)</title>
@@ -38,34 +53,6 @@ easy to get lost in the shadows
 &lt;li&gt;&lt;a title=&quot;Mutuals&quot; href=&quot;https://cheytopia.neocities.org/mutuals&quot;&gt;Mutuals&lt;/a&gt; &lt;span title=&quot;led to link shown below&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a title=&quot;ven&quot; href=&quot;https://ovengoats.world/&quot;&gt;orbit&lt;/a&gt;: &lt;a title=&quot;sites&quot; href=&quot;https://ovengoats.world/sites&quot;&gt;connect&lt;/a&gt; &lt;span title=&quot;led to link shown below&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a title=&quot;Vincent Mena&quot; href=&quot;https://endless-cycles.org/&quot;&gt;endless cycles (in the Dreamtime of The Saucer People)&lt;/a&gt;: &lt;a title=&quot;Vol. 1&quot; href=&quot;https://endless-cycles.org/comics/1/first_contact&quot;&gt;First Contact&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>sites.i.like 08-09-25</title>
-    <link href="https://bulltown.neocities.org/sites-i-like-08-09-25/"/>
-    <updated>2025-08-09T05:28:17-04:00</updated>
-    <id>https://bulltown.neocities.org/sites-i-like-08-09-25/</id>
-    <content type="html">&lt;p&gt;
-more faves for ya...
-&lt;/p&gt;
-
-&lt;div style=&quot;position:relative;float:right;margin:6px;&quot;&gt;
-	&lt;a href=&quot;https://simply.joejenett.com/adventures-of-a-donut-maker/&quot;&gt;&lt;img src=&quot;/images/donutbox.png&quot; alt=&quot;&quot; height=&quot;84&quot; /&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a title=&quot;kuroi&quot; href=&quot;https://kuroi.neocities.org/&quot;&gt;kuroiOS Desktop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://bayou.neocities.org/&quot;&gt;Find me in the bayou-&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://theabsoluterealm.com/&quot;&gt;The absolute realm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&quot;‎Dima&quot; href=&quot;https://sodarain.neocities.org/&quot;&gt;‎‧₊˚✧sodarain✧˚₊‧&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&quot;rowan&quot; href=&quot;https://swiftyshq.neocities.org/&quot;&gt;&lt;small&gt;SWIFTY&apos;S HQ&lt;/small&gt;!&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&quot;Stone Willows&quot; href=&quot;https://owlsintowels.org/&quot;&gt;Owls in Towels&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&quot;natalie&quot; href=&quot;https://planetaryinfluence.neocities.org/&quot;&gt;planetary influence&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&quot;aid&quot; href=&quot;https://zhongvie.neocities.org/&quot;&gt;aid&apos;s small corner&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&quot;wriorango&quot; href=&quot;https://wriorango.neocities.org/&quot;&gt;rango&apos;s web hell hole&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
