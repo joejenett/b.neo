@@ -3,13 +3,33 @@
   <title type="text" xml:lang="en">bulltown.neo</title>
   <link type="application/atom+xml" href="https://bulltown.neocities.org/feed.atom" rel="self"/>
   <link type="text/html" href="https://bulltown.neocities.org/" rel="alternate"/>
-  <updated>2025-10-10T07:13:58-04:00</updated>
+  <updated>2025-10-12T09:09:56-04:00</updated>
   <id>https://bulltown.neocities.org/full_content_feed</id>
   <author>
     <name>joe jenett</name>
   </author>
   <rights>2000-2023 © joe jenett. Some rights reserved.</rights>
 
+  
+  <entry>
+    <title>ｎｅｏＬｏｖｅ １０－１２－２５</title>
+    <link href="https://bulltown.neocities.org/neolove-10-12-25/"/>
+    <updated>2025-10-12T08:54:04-04:00</updated>
+    <id>https://bulltown.neocities.org/neolove-10-12-25/</id>
+    <content type="html">&lt;div style=&quot;position:relative;float:right;margin:6px;&quot;&gt;
+&lt;a href=&quot;https://simply.joejenett.com/adventures-of-a-donut-maker/&quot;&gt;&lt;img src=&quot;/images/donutbox.png&quot; alt=&quot;&quot; height=&quot;84&quot; /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://coffeeplant.neocities.org/&quot;&gt;coffeeplant&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;vivi&quot; href=&quot;https://weaven.neocities.org/&quot;&gt;welcome to digi-heaven!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://irony-machine.neocities.org/&quot;&gt;irony machine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://freckleskies.neocities.org/&quot;&gt;freckleskies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a title=&quot;Ash&quot; href=&quot;https://shnu-world.neocities.org/&quot;&gt;shnu world&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>nightwatch</title>
@@ -37,24 +57,6 @@ easy to get lost in the shadows
 &lt;p class=&quot;center&quot;&gt;
 &lt;img class=&quot;mw100-b&quot; src=&quot;/images/highway_spaces_47.jpg&quot; width=&quot;100%&quot; title=&quot;highway spaces (47)&quot; alt=&quot;highway spaces (47)&quot; /&gt;
 &lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>ｎｅｏＬｏｖｅ ０８－２８－２５</title>
-    <link href="https://bulltown.neocities.org/neolove-08-28-25/"/>
-    <updated>2025-08-28T08:09:41-04:00</updated>
-    <id>https://bulltown.neocities.org/neolove-08-28-25/</id>
-    <content type="html">&lt;ul&gt;
-&lt;li&gt;&lt;a title=&quot;Tehsin&quot; href=&quot;https://fairygore.neocities.org/&quot;&gt;o sleeper&lt;/a&gt;: &lt;a title=&quot;music&quot; href=&quot;https://fairygore.neocities.org/cdplayer&quot;&gt;a little tune&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&quot;Nicolas&quot; href=&quot;https://tapeykatt.neocities.org/&quot;&gt;Tapeykatt&apos;s Place&lt;/a&gt;: &lt;a title=&quot;Drawings&quot; href=&quot;https://tapeykatt.neocities.org/pics/artwork/&quot;&gt;My Artwork&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&quot;Cheytopia 3000&quot; href=&quot;https://cheytopia.neocities.org/&quot;&gt;Cheytopia 3000&lt;/a&gt;: &lt;a title=&quot;Mutuals&quot; href=&quot;https://cheytopia.neocities.org/mutuals&quot;&gt;Friends of the Site&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&quot;Mutuals&quot; href=&quot;https://cheytopia.neocities.org/mutuals&quot;&gt;Mutuals&lt;/a&gt; &lt;span title=&quot;led to link shown below&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&quot;ven&quot; href=&quot;https://ovengoats.world/&quot;&gt;orbit&lt;/a&gt;: &lt;a title=&quot;sites&quot; href=&quot;https://ovengoats.world/sites&quot;&gt;connect&lt;/a&gt; &lt;span title=&quot;led to link shown below&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a title=&quot;Vincent Mena&quot; href=&quot;https://endless-cycles.org/&quot;&gt;endless cycles (in the Dreamtime of The Saucer People)&lt;/a&gt;: &lt;a title=&quot;Vol. 1&quot; href=&quot;https://endless-cycles.org/comics/1/first_contact&quot;&gt;First Contact&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;p&gt;&lt;a href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
