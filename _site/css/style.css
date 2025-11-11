@@ -1075,7 +1075,7 @@ div #nl {
 }
 #commento {
 	border: none;
-	padding: 24px 18px 36px 18px;
+	/*padding: 24px 18px 36px 18px;*/
 }
 #buttons {
 	margin-top: 0;
