@@ -204,7 +204,7 @@ body {
 	border:none;
 	overflow:auto;
 	max-width:98%;
-	margin-top:-12px;
+	margin-top:-36px;
 	/*border:1px solid #bc9a98;*/
 }
 .pointnineem {
@@ -214,13 +214,13 @@ body {
 	font-size:.8em;
 }
 #bnwrap {
-	/*position:relative;
-	top:-8px;*/
+	position:relative;
+	top:-24px;
 }
 .bn-1 {
 	font-size:1.5em;
-	/*position:relative;
-	top:-8px;*/
+	position:relative;
+	top:-8px;
 	color:#440303;
 	border-bottom:1px solid #d7c2c1;
 	margin-bottom:42px;
