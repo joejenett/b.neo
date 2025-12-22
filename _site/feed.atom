@@ -3,7 +3,7 @@
   <title type="text" xml:lang="en">bulltown.neo</title>
   <link type="application/atom+xml" href="https://bulltown.neocities.org/feed.atom" rel="self"/>
   <link type="text/html" href="https://bulltown.neocities.org/" rel="alternate"/>
-  <updated>2025-12-22T09:56:58-05:00</updated>
+  <updated>2025-12-22T10:13:15-05:00</updated>
   <id>https://bulltown.neocities.org/full_content_feed</id>
   <author>
     <name>joe jenett</name>
@@ -12,10 +12,10 @@
 
   
   <entry>
-    <title>Niki's</title>
-    <link href="https://bulltown.neocities.org/nikis/"/>
+    <title>Niki's Lounge</title>
+    <link href="https://bulltown.neocities.org/nikis-lounge/"/>
     <updated>2025-12-22T08:38:06-05:00</updated>
-    <id>https://bulltown.neocities.org/nikis/</id>
+    <id>https://bulltown.neocities.org/nikis-lounge/</id>
     <content type="html">&lt;p&gt;
 Detroit
 &lt;/p&gt;
