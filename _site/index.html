@@ -6,6 +6,7 @@
 <script src="/js/screensaver.js" timeout="90000" message="𝗯.𝗻𝗲𝗼"></script>
 <script src="/js/jquery-1.8.3.min.js"></script>
 <script src="/js/jquery.detect_swipe.js"></script>
+<script src="/js/leroy.js"></script>
 
 <script src="/js/quoteback.js"></script>
 <link rel="icon" href="/images/favicon-32.png" sizes="32x32">
@@ -76,11 +77,13 @@
 <body>
 	<a id="top"></a>
 	<div id="container">
-		<div id="branding"><script>NekoType="marmalade"</script>
+		<div id="branding"><!--
+	<script>NekoType="marmalade"</script>
 <div id="nl">
 	<script src="https://webneko.net/n20171213.js"></script><a 
 	href="https://bulltown.neocities.org/">home</a>
 </div>
+-->
 <div id="slug" style="margin-left:40px;">
 		<a href="/"><img src="/images/neo-slug.png" title="b.neo home" alt="b.neo home" width="36" style="position:relative;left:3px;"></a><br>
 		<a href="https://bulltown.joejenett.com/"><img src="/images/b22-48.png" title="b22 home" alt="b22 home" width="48"></a>
@@ -146,6 +149,11 @@
 		<p>
 			<a href="https://www.internetbumperstickers.com/frontbumper/"><img src="/images/happy_place.gif" alt="internetbumperstickers.com" width="230"></a> 
 		</p>
+		<div id="leroy">
+			<p>
+				Please welcome our new mascot, <em>little linkguy</em>,<br>based on a cool script by <a title="Mitesh Shah" href="https://miteshshah.com/">Mitesh Shah</a> (with his permission).
+			</p>
+		</div>
 
 		<div id="littlenav">
 			<a href="https://bulltown.joejenett.com/bulltown-linking-policy/">re: linking</a> <a href="https://neocities.org/site/bulltown/follows">sites I follow</a> <a href="#guestbook">guestbook</a>
@@ -1577,6 +1585,9 @@ Detroit
 				<a title="32-Bit Cafe" href="https://32bit.cafe/"><img src="/images/32bitcafe.png" alt="32-Bit Cafe" width="88" height="31"></a>
 			</div>
 			<div class="button">
+				<a title="Mitesh Shah: Handcrafted Mascot On My Blog Like Its 2007 (feat. VanillaJS)" href="https://oxal.org/blog/handcrafted-mascot-on-my-blog-like-its-2007/"><img src="/images/oxalorg.png" alt="visit oxal.org by Mitesh Shah" width="88" height="31"></a>
+			</div>
+			<div class="button">
 				<a title="Atabook - Get your free guestbook" href="https://atabook.org/"><img src="/images/atabook.png" alt="Atabook" width="88" height="31"></a>
 			</div>
 			<div class="button">
@@ -1780,7 +1791,13 @@ fuzzy: false,
 exclude: ['Welcome']
 })
 </script>
-	 
+
+<script>
+	function hideLeroy () {
+		leroy.style.display = "none";
+	}
+	setTimeout(hideLeroy, 20000);
+</script>	 
 		</div>
 	</div>
 	<script src="/js/freezeframe.min.js"></script>
