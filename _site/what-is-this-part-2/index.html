@@ -186,7 +186,7 @@ This should shed some light on what I’m up to here...
 			});
         		$.each(mydata.links, function(i, v) {
         		if (v.target.search(new RegExp(/what-is-this-part-2/i)) != -1) {
-               		output += '<p class="ninerem"><a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="webmention source" width="48" /><br>' + v.data.author.name + '</a></p> ';
+               		output += '<p class="ninerem"><a href="' + v.source + '"><img class="br24" src="' + v.data.author.photo + '" alt="webmention source" width="48" /><br>' + v.data.author.name + '</a></p> ';
                	}
     	});
     		output += ' ';
