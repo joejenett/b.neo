@@ -165,11 +165,22 @@
 		<div class="jneko">
 			<a href="https://jenett.nekoweb.org/"><img src="/images/jjbutt.png" alt="jenett@nekoweb" width="72"></a>
 		</div>
-
+	<!--
 		<div>
 			<iframe src="https://joejenett.com/hubnow" style="width:100%;max-height:20px;border:none;margin:0 auto 20px -6px;overflow:hidden;">
 			</iframe>
 		</div>
+	-->
+	
+	<div id="recently">
+		<span class="rhead">Recently:</span> 
+		<div id="feedid">
+			<img src='/images/islug.png' width='18' alt='i.webthings hub'>
+		</div>
+		<span class="feed" data-rss-feed="https://iwebthings.joejenett.com/titles.atom" data-rss-link-titles="true" data-rss-title-wrapper="strong" data-rss-max="1">
+		</span>
+	</div>
+
 		<iframe id="embed" src="https://bulltown.joejenett.com/embed.html" title="latest from the b22 journal" width="660" height="520">
 		</iframe>
 			<div id="bnwrap">
@@ -1966,5 +1977,6 @@ exclude: ['Welcome']
 		</div>
 	</div>
 	<script src="/js/freezeframe.min.js"></script>
+	<script src="/js/simple-rss.js"></script>
 </body>
 </html>
