@@ -9,8 +9,8 @@ body {
 	color:#300202;
 }
 #recently {
-	border-top:1px solid #ddd;
-	border-bottom:1px solid #ddd;
+	border-top:1px solid #dfcecd;
+	border-bottom:1px solid #dfcecd;
 	margin:24px 12px 18px 0;
 	padding:2px;
 }
@@ -103,12 +103,12 @@ article.comment img .comment_avatar {
 	font-style:italic;
 }
 .bb {
-	border-bottom:1px solid #ddd;
+	border-bottom:1px solid #dfcecd;
 	padding-bottom:100px;
 }
 .bt {
 	margin-top:100px;
-	border-top:1px solid #ddd;
+	border-top: 1px solid #dfcecd;
 	padding-top:36px;
 }
 .bm60 {
@@ -250,8 +250,6 @@ article.comment img .comment_avatar {
 	border:none;
 	overflow:auto;
 	max-width:98%;
-	/*margin-top:-36px;
-	border:1px solid #bc9a98;*/
 }
 .pointnineem, .nineem {
 	font-size:.9em;
@@ -559,7 +557,7 @@ article.comment img .comment_avatar {
 	text-align:center;
 	margin-top:24px;
 	clear:both;
-	border-top:1px solid #ccc;
+	border-top:1px solid #d7c2c1;
 	padding-top:24px;
 	padding-bottom:24px;
 }
@@ -779,6 +777,7 @@ h3 {
 #commento {
 	margin-top:48px;
 	text-align:center;
+	border-top: 1px solid #dfcecd;
 }
 #buttonwall {
 	display: flex;
@@ -1140,7 +1139,7 @@ div #nl {
 	padding: 0 14px 12px 14px;
 }
 #commento {
-	border: none;
+	border-top: 1px solid #dfcecd;
 	/*padding: 24px 18px 36px 18px;*/
 }
 #buttons {
