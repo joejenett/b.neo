@@ -1226,10 +1226,6 @@ div>#show-cover img {
 	p.hideit, div.hideit {
 		display:none;
 	}
-	#locatetopperwrap {
-		right: 24px;
-		top:800px;
-	}
 }
 @media only screen and (max-width:600px) {
 	#mutual-buttons, #follower-buttons, #also-buttons {
@@ -1240,10 +1236,6 @@ div>#show-cover img {
 	}
 	#homewall {
 		padding:40px 0 40px 9px;
-	}
-	#locatetopperwrap {
-		right: 10px;
-		top:830px;
 	}
 	#bnwrap {
 		top:-84px;
@@ -1265,10 +1257,6 @@ div>#show-cover img {
 	#buttsep  {
 		margin:0 4px 0 10px;
 	}	
-	#locatetopperwrap {
-		right: 12px;
-		top:700px;
-	}
 	#bnwrap {
 		top:-120px;
 	}
@@ -1369,10 +1357,6 @@ div>#show-cover img {
 	#mutuals, #followers, #also {
 		padding-right:14px;
 	}
-	#locatetopperwrap {
-		right: 10px;
-		top:810px;
-	}
 }
 
 @media only screen and (max-width:414px) {
@@ -1384,10 +1368,6 @@ div>#show-cover img {
 	}
 	#mutual-buttons, #follower-buttons, #also-buttons {
 		padding:14px 0;
-	}
-	#locatetopperwrap {
-		right: 10px;
-		top:810px;
 	}
 }
 
@@ -1407,11 +1387,7 @@ div>#show-cover img {
 	#thanks .button {
 		position:relative;
 	}
-	#locatetopperwrap {
-		right: 12px;
-		top:810px;
-	}
-		#bnwrap {
+	#bnwrap {
 		top:-196px;
 	}
 }
