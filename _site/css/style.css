@@ -171,7 +171,7 @@ article.comment img .comment_avatar {
 	font-weight:400;
 	font-size:.9rem;
 }
-#button-search, #locator, #locatetopper {
+#button-search, #locator {
 	background:#fff;
 	border:1px solid #440303;
 }
@@ -188,12 +188,30 @@ article.comment img .comment_avatar {
 #locatetopper {
 	text-align:center;
 	position:relative;
-	top:-24px
+	top:-24px;
+	border:none;
+	martgin:0;
 }
 #locatetopperwrap {
 	position:fixed;
-	right: 48px;
+	right: 12px;
 	top:600px;
+	border:none;
+	padding:0;
+}
+#reloader {
+	text-align:center;
+	position:relative;
+	top:-24px;
+	border:none;
+	margin:0;
+}
+#reloaderwrap {
+	position:fixed;
+	left: 12px;
+	top:600px;
+	border:none;
+	padding:0;
 }
 #formwrap {
 	text-align:center;
@@ -992,6 +1010,9 @@ a {
 }
 a:hover {
 	background-color: #ffe5de;
+}
+#reloaderwrap a:hover, #locatetopperwrap a:hover {
+	background-color:black;
 }
 div #layerNeko0 a:hover {
 	background-color: transparent;
