@@ -5,7 +5,7 @@ body {
 	font-size: 16px;
 	overflow: hidden;
 	background:url('/images/leather2.png');
-	background-color: #0f0604;
+	background-color: #1f1917;
 	color:#300202;
 }
 #recently {
@@ -194,7 +194,7 @@ article.comment img .comment_avatar {
 }
 #locatetopperwrap {
 	position:fixed;
-	right: 12px;
+	right: 160px;
 	top:600px;
 	border:none;
 	padding:0;
@@ -208,7 +208,7 @@ article.comment img .comment_avatar {
 }
 #reloaderwrap {
 	position:fixed;
-	left: 12px;
+	left: 160px;
 	top:600px;
 	border:none;
 	padding:0;
@@ -1223,7 +1223,7 @@ div>#show-cover img {
 }
 
 @media only screen and (max-width:768px) {
-	p.hideit, div.hideit {
+	p.hideit, div.hideit, #reloaderwrap, #locatetopperwrap, #bswrap, #locatetext {
 		display:none;
 	}
 }
