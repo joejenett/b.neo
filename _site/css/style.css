@@ -8,6 +8,9 @@ body {
 	background-color: #1f1917;
 	color:#300202;
 }
+.mr-9 {
+	margin-right:9px;
+}
 #recently {
 	/*border-top:1px solid #dfcecd;
 	border-bottom:1px solid #dfcecd;*/
@@ -1136,7 +1139,7 @@ div #reasons img {
 	margin: 18px 0 72px 0;
 }
 .footer {
-	margin: 12px 0 12px 0;
+	margin: 0 0 12px 0;
 }
 	
 #branding {
