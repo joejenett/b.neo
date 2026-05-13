@@ -991,7 +991,9 @@ h1 {
 	color: #386f7f;
 }
 #menu a:hover {
-	background: #ffe5de;
+	background:#ffe5de;
+	text-decoration:underline;
+	text-decoration-thickness:0.15em;
 }
 #menu ul, #header ul {
 	list-style: none;
@@ -1012,7 +1014,9 @@ a {
 	color: #386f7f;
 }
 a:hover {
-	background-color: #ffe5de;
+	background:#ffe5de;
+	text-decoration:underline;
+	text-decoration-thickness:0.15em;
 }
 #reloaderwrap a:hover, #locatetopperwrap a:hover {
 	background-color:black;
