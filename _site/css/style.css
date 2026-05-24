@@ -649,6 +649,15 @@ li {
 	position:relative;
 	left: -8px;	
 }
+.iwt-u {
+	position:relative;
+	float:right;
+	margin:-18px 18px 0 9px;
+	padding-left:2px;
+	padding-bottom:9px;
+	text-align:center;
+	font-size:.9em;
+}
 .iwt-b {
 	width:272px;
 	margin:24px auto 30px auto;
