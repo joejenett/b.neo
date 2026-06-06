@@ -17,11 +17,21 @@ body {
 	border:1px solid #a28181;
 	border-radius:10px;
 	margin:18px auto 72px auto;
-	padding:40px 58px;
+	padding:40px 74px;
 	
 }
+.columnwrap {
+	text-align:center;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: repeat(1, 1fr);gap: 8px;
+} 
+#ta2, #ta1 {
+	 width:85%;
+	 height:100px;
+}
 .stamp {
-	max-width:88px;
+	max-width:99px;
 	margin:2px;
 	float:left;
 }
@@ -286,21 +296,11 @@ article.comment img .comment_avatar {
 	margin:12px 0;
 	color:#440303;
 }
-.columnwrap {
-	text-align:center;
-	display: grid;
-	grid-template-columns: repeat(3, 1fr);
-	grid-template-rows: repeat(1, 1fr);gap: 8px;
-} 
 #neolinkstopper {
 	text-align:center;
 	z-index:1000;
 	margin-top:36px;
 } 
-#ta2, #ta1 {
-	 width:85%;
-	 height:100px;
-}
 #embed {
 	border:none;
 	overflow:auto;
@@ -1288,6 +1288,9 @@ div>#show-cover img {
 	#bnwrap {
 		top:-84px;
 	}
+	#stampwall { 
+		padding:40px 52px;
+	}
 }
 @media only screen and (max-width:540px) {
 	#mutual-buttons, #follower-buttons, #also-buttons {
@@ -1307,6 +1310,9 @@ div>#show-cover img {
 	}	
 	#bnwrap {
 		top:-120px;
+	}
+	#stampwall { 
+		padding:40px 72px;
 	}
 }
 @media only screen and (max-width:479px) {
@@ -1361,6 +1367,16 @@ div>#show-cover img {
 	#bnwrap {
 		top:-172px;
 	}
+	#stampwall { 
+		padding:40px 0;
+	}
+	.stamp {
+		max-width:88px;
+	}
+	.div1 img, .div2 img, .div3 img {
+		max-width:88px;
+		max-height:50px;
+	}
 }
 @media only screen and (max-width:440px) {
 	#homewall {
@@ -1369,6 +1385,9 @@ div>#show-cover img {
 	#buttsep  {
 		margin:0 12px 0 10px;
 	}	
+	#stampwall { 
+		padding:40px 42px;
+	}
 }
 @media only screen and (max-width:430px) {
 	
@@ -1405,6 +1424,13 @@ div>#show-cover img {
 	#mutuals, #followers, #also {
 		padding-right:14px;
 	}
+	#stampwall { 
+		padding:40px 33px;
+	}
+	.div1 img, .div2 img, .div3 img {
+		max-width:77px;
+		max-height:43px;
+	}
 }
 
 @media only screen and (max-width:414px) {
@@ -1437,5 +1463,11 @@ div>#show-cover img {
 	}
 	#bnwrap {
 		top:-196px;
+	}
+	#stampwall { 
+		padding:40px 38px;
+	}
+	.stamp {
+		max-width:77px;
 	}
 }
