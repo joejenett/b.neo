@@ -17,7 +17,7 @@ body {
 	border:1px solid #a28181;
 	border-radius:10px;
 	margin:18px auto 72px auto;
-	padding:40px 74px;
+	padding:40px 66px;
 	
 }
 .columnwrap {
@@ -32,7 +32,8 @@ body {
 }
 .stamp {
 	max-width:99px;
-	margin:2px;
+	max-height:56px;
+	margin:4px;
 	float:left;
 }
 .stamp a:hover img {
@@ -1289,7 +1290,13 @@ div>#show-cover img {
 		top:-84px;
 	}
 	#stampwall { 
-		padding:40px 52px;
+		padding:40px 68px;
+	}
+	.stamp {
+		width:88px;
+		height:50px;
+		padding-top:4px;
+
 	}
 }
 @media only screen and (max-width:540px) {
@@ -1312,7 +1319,7 @@ div>#show-cover img {
 		top:-120px;
 	}
 	#stampwall { 
-		padding:40px 72px;
+		padding:40px 42px;
 	}
 }
 @media only screen and (max-width:479px) {
@@ -1368,10 +1375,14 @@ div>#show-cover img {
 		top:-172px;
 	}
 	#stampwall { 
-		padding:40px 0;
+		padding:40px 0 40px 40px;
+	}
+	.stamprow {
+		position:relative;
+		left:14px;
 	}
 	.stamp {
-		max-width:88px;
+		max-width:77px;
 	}
 	.div1 img, .div2 img, .div3 img {
 		max-width:88px;
@@ -1403,6 +1414,10 @@ div>#show-cover img {
 	#bnwrap {
 		top:-178px;
 	}
+	.stamprow {
+		position:relative;
+		left:10px;
+	}
 }
 @media only screen and (max-width:428px) {
 	#mutual-buttons, #follower-buttons, #also-buttons {
@@ -1425,11 +1440,15 @@ div>#show-cover img {
 		padding-right:14px;
 	}
 	#stampwall { 
-		padding:40px 33px;
+		padding:40px 38px;
 	}
 	.div1 img, .div2 img, .div3 img {
 		max-width:77px;
 		max-height:43px;
+	}
+	.stamprow {
+		position:relative;
+		left:12px;
 	}
 }
 
@@ -1465,9 +1484,13 @@ div>#show-cover img {
 		top:-196px;
 	}
 	#stampwall { 
-		padding:40px 38px;
+		padding:40px 32px;
 	}
 	.stamp {
 		max-width:77px;
+	}
+	.stamprow {
+		position:relative;
+		left:2px;
 	}
 }
