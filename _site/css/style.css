@@ -206,7 +206,7 @@ article.comment img .comment_avatar {
 	text-align:left;
 }
 #locatetext {
-	border-top:1px solid #440303;
+	border-top:1px solid #d7c2c1;
 	padding-top:12px;
 	text-align:left;
 	margin:12px 0 24px 0;
@@ -217,7 +217,13 @@ article.comment img .comment_avatar {
 	background:#fff;
 	border:1px solid #440303;
 }
+#button-search {
+	margin-top:10px;
+}
 #locator {
+	height:19px;
+	position:relative;
+	top:-1px;
 	font-size:.6em;
 }
 .mw100 {
@@ -604,6 +610,9 @@ article.comment img .comment_avatar {
 #activate {
 	visibility:visible;
 }
+.pt-18 {
+	padding-top:18px;
+}
 #linksbuttons {
 	text-align:center;
 	padding-top:24px;
@@ -613,7 +622,7 @@ article.comment img .comment_avatar {
 	text-align:center;
 	margin-top:24px;
 	clear:both;
-	border-top:1px solid #d7c2c1;
+	/*border-top:1px solid #d7c2c1;*/
 	padding-top:24px;
 }
 #home-thanks {
