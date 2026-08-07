@@ -138,7 +138,7 @@ dealing with 88x33 buttons</title>
 
 <article class="h-entry post hentry" itemscope itemtype="http://schema.org/BlogPosting">
 	<header class="post-header">
-		<h2 class="post-title p-name" style="margin-top:18px;color:#440303;" itemprop="name headline">dealing with 88x33 buttons</h2>
+		<h2 class="post-title p-name" style="margin-top:18px;color:#440303;" itemprop="name headline"><a class="url u-url u-uid uid bookmark" href="https://bulltown.neocities.org/dealing-with-88x33-buttons/">dealing with 88x33 buttons</a></h2>
 	</header>
 	<div style="margin-right:12px;" class="post-content e-content" itemprop="articleBody">
 		<p>
@@ -187,22 +187,23 @@ I added <code>class="button-fix"</code> to each of the <code>img</code> tags in 
 			var output = '';
 			$.each(mydata.links, function(i, v) {
 				if (v.target.search(new RegExp(/dealing-with-88x33-buttons/i)) != -1) {
-						output = '<div style="margin:18px 0 9px 0;font-size:1rem;font-weight:600;">Reactions: </div>';
-			}
+					output = '<div style="margin:18px 0 9px 0;font-size:1rem;font-weight:600;">Reactions: </div>';
+				}
 			});
-        		$.each(mydata.links, function(i, v) {
+			$.each(mydata.links, function(i, v) {
         		if (v.target.search(new RegExp(/dealing-with-88x33-buttons/i)) != -1) {
-               		output += '<p class="ninerem"><a href="' + v.source + '"><img class="br24" src="' + v.data.author.photo + '" alt="webmention source" width="48" /><br>' + v.data.author.name + '</a></p> ';
-               	}
-    	});
-    		output += ' ';
-    		$('#result0').html(output);
-		});	
-	});
+					output += '<p class="ninerem"><a title="toot.community-backfeed-disabled-' + v.source + '"><img class="br24" src="' + v.data.author.photo + '" alt="webmention source" width="48" /><br>' + v.data.author.name + '</a> <span style="font-weight:300;font-size:.9em;">(' + v.activity.type + ')</span></p> ';               	}
+				});
+				output += ' ';
+				$('#result0').html(output);
+			});	
+		});
 </script>
 <div id="result0" style="margin-bottom:48px;"></div>
 
-<div style="margin-bottom:36px;"></div>
+	<div id="resultsp" style="margin-top:24px;">
+		
+	</div>
 
 <div style="display:flex;font-size:.75em;font-weight:400;margin:12px 0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
 	<div style="width:50%;">
@@ -216,6 +217,7 @@ I added <code>class="button-fix"</code> to each of the <code>img</code> tags in 
 		
 	</div>
 </div> 
+
 
 	<p><a class="u-url" href="https://bulltown.neocities.org/dealing-with-88x33-buttons/"><small>(permalink)</small></a></p>
 </article>
