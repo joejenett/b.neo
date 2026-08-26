@@ -1329,6 +1329,9 @@ div>#show-cover img {
 	#stampwall { 
 		padding:40px 42px;
 	}
+	#embed {
+		min-height:900px;
+	}
 }
 @media only screen and (max-width:479px) {
 	body {
