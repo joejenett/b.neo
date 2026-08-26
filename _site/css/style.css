@@ -1304,7 +1304,9 @@ div>#show-cover img {
 		width:88px;
 		height:50px;
 		padding-top:4px;
-
+	}
+	#embed {
+		min-height:650px;
 	}
 }
 @media only screen and (max-width:540px) {
@@ -1330,7 +1332,7 @@ div>#show-cover img {
 		padding:40px 42px;
 	}
 	#embed {
-		min-height:1200px;
+		min-height:700px;
 	}
 }
 @media only screen and (max-width:479px) {
