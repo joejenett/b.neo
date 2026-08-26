@@ -1332,7 +1332,7 @@ div>#show-cover img {
 		padding:40px 42px;
 	}
 	#embed {
-		min-height:700px;
+		min-height:750px;
 	}
 }
 @media only screen and (max-width:479px) {
