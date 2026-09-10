@@ -3,7 +3,7 @@
   <title type="text" xml:lang="en">bulltown.neo</title>
   <link type="application/atom+xml" href="https://bulltown.neocities.org/feed.atom" rel="self"/>
   <link type="text/html" href="https://bulltown.neocities.org/" rel="alternate"/>
-  <updated>2026-09-09T12:22:17-04:00</updated>
+  <updated>2026-09-10T07:52:19-04:00</updated>
   <id>https://bulltown.neocities.org/full_content_feed</id>
   <author>
     <name>joe jenett</name>
@@ -12,12 +12,27 @@
 
   
   <entry>
+    <title>pop-up signage shop</title>
+    <link href="https://bulltown.neocities.org/signage-shop/"/>
+    <updated>2026-09-10T07:39:07-04:00</updated>
+    <id>https://bulltown.neocities.org/signage-shop/</id>
+    <content type="html">&lt;p&gt;
+Pontiac, Michigan
+&lt;/p&gt;
+&lt;p class=&quot;center&quot;&gt;
+&lt;img class=&quot;mw100-b&quot; src=&quot;/images/signage_shop.png&quot; width=&quot;100%&quot; title=&quot;signage shop&quot; alt=&quot;signage shop&quot; /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a aria-hidden=&quot;true&quot; tabindex=&quot;-1&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
     <title>crossroads</title>
     <link href="https://bulltown.neocities.org/crossroads/"/>
     <updated>2026-04-25T07:15:45-04:00</updated>
     <id>https://bulltown.neocities.org/crossroads/</id>
     <content type="html">&lt;p&gt;
-crossroads
+Detroit
 &lt;/p&gt;
 &lt;p class=&quot;center&quot;&gt;
 &lt;img class=&quot;mw100-b&quot; src=&quot;/images/crossroads.jpg&quot; width=&quot;100%&quot; title=&quot;crossroads&quot; alt=&quot;crossroads&quot; /&gt;
@@ -36,21 +51,6 @@ Chicago
 &lt;/p&gt;
 &lt;p class=&quot;center&quot;&gt;
 &lt;img class=&quot;mw100-b&quot; src=&quot;/images/gehry_skyform.jpg&quot; width=&quot;100%&quot; title=&quot;Gehry skyform&quot; alt=&quot;Gehry skyform&quot; /&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;a aria-hidden=&quot;true&quot; tabindex=&quot;-1&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Niki's Lounge</title>
-    <link href="https://bulltown.neocities.org/nikis-lounge/"/>
-    <updated>2025-12-22T08:38:06-05:00</updated>
-    <id>https://bulltown.neocities.org/nikis-lounge/</id>
-    <content type="html">&lt;p&gt;
-Detroit
-&lt;/p&gt;
-&lt;p class=&quot;center&quot;&gt;
-&lt;img class=&quot;mw100-b&quot; src=&quot;/images/nikis.jpg&quot; width=&quot;100%&quot; title=&quot;Niki&apos;s&quot; alt=&quot;Niki&apos;s&quot; /&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;a aria-hidden=&quot;true&quot; tabindex=&quot;-1&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
