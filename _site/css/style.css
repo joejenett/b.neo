@@ -8,6 +8,12 @@ body {
 	background-color: #1f1917;
 	color:#300202;
 }
+.pl10 {
+	padding-left:10px;
+}
+.pl8 {
+	padding-left:8px;
+}
 #stampwall {
 	display:flex;
 	background-color:#fdf9ec;
